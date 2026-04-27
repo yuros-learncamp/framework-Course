@@ -5,8 +5,8 @@
 ### Week 1
 | day | task  | output  | time |
 |---|---|---|---|
-| senin | Riset demand course  |    |   |
-| selasa |   |   |   |   
+| senin | perencanaan riset| Tremms of references |   |
+| selasa | pelekasaan riset  |    |   |   
 | rabu |   |   |   | 
 | kamis |   |   |   |   
 | jumat |   |   |   |  
