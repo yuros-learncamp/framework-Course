@@ -6,8 +6,8 @@
 | day | task  | output  | time |
 |---|---|---|---|
 | senin | perencanaan riset| Tremms of references |   |
-| selasa | pelekasaan riset  |    |   |   
-| rabu |   |   |   | 
+| selasa |  |    |   |   
+| rabu |    |   |   | 
 | kamis |   |   |   |   
 | jumat |   |   |   |  
 
