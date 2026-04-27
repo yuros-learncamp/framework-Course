@@ -5,11 +5,11 @@
 ### Week 1
 | day | task  | output  | time |
 |---|---|---|---|
-| senin | perencanaan riset| Tremms of references |   |
-| selasa |  |    |   |   
-| rabu |    |   |   | 
-| kamis |   |   |   |   
-| jumat |   |   |   |  
+| senin | perencanaan riset| Termms of references |   |
+| selasa | penyusunan instrumen riset | report riset   |   |   
+| rabu | pelaksaan riset   | report riset  |   | 
+| kamis | pelaksaan riset  | report riset   |   |   
+| jumat | pelaksaan riset  | report riset  |   |  
 
 
 ### Week 2
