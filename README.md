@@ -5,26 +5,27 @@
 ### Week 1: Research Foundation
 | day | task | output | time |
 |---|---|---|---|
-| senin | Perencanaan riset | Terms of References | |
-| selasa | Penyusunan instrumen riset | Panduan Interview/Kuesioner | |
-| rabu | Pelaksanaan riset | Raw Data | |
-| kamis | Pelaksanaan riset | Raw Data | |
-| jumat | Pelaksanaan riset | Report Riset Awal | |
+| senin | Perencanaan riset | Terms of References |240 Menit |
+| selasa | Penyusunan instrumen riset | Panduan Interview/Kuesioner | 240 Menit|
+| rabu | Pelaksanaan riset | Raw Data |240 Menit |
+| kamis | Pelaksanaan riset | Raw Data |240 Menit |
+| jumat | Pelaksanaan riset | Report Riset Awal |240 Menit |
 
 ### Week 2: Curriculum & Syllabus Design
 | day | task | output | time |
 |---|---|---|---|
-| senin | Pendefinisian tujuan pembelajaran | Learning Outcomes | |
-| selasa | Brainstorming struktur bab & modul | Draft Struktur Modul | |
-| rabu | Penyusunan silabus detail | Dokumen Silabus | |
-| kamis | Penentuan format penyampaian (Video/Teks) | Media Plan | |
-| jumat | Review & Finalisasi Silabus | Silabus Final | |
+| senin | Pendefinisian tujuan pembelajaran | Capaian Pembelajaran |120 Menit |
+| senin | Brainstorming struktur bab & modul | Draft Struktur Modul |120 Menit |
+| selasa | Penyusunan silabus detail | Dokumen Silabus |240 Menit |
+| rabu | penyusunan silabus detail| Dokumen Silabus |120 Menit |
+| rabu | Review & Finalisasi Silabus | Silabus Final |120 Menit |
+| Kamis | Penulisan 1 Sesi | Script/Draft Teks |120 Menit |
 
-### Week 3: Scripting & Material Prep
+
 | day | task | output | time |
 |---|---|---|---|
-| senin | Penulisan naskah/materi Modul 1 & 2 | Script/Draft Teks | |
-| selasa | Penulisan naskah/materi Modul lanjutan | Script/Draft Teks | |
+| Kamis | Penulisan 1 sesi | Script/Draft Teks |120 Menit |
+| selasa | Penulisan naskah/materi 5 module | Script/Draft Teks | |
 | rabu | Pembuatan slide presentasi | Deck Slide | |
 | kamis | Pembuatan soal kuis & studi kasus | Kumpulan Soal & Jawaban | |
 | jumat | Review mandiri (QC tahap 1) | Materi Siap Produksi | |
