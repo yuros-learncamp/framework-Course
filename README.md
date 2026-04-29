@@ -10,16 +10,66 @@
 | kamis | Pelaksanaan riset lapangan | Raw Data | 240 Menit |
 | jumat | Analisis data & Penyusunan Laporan Riset | Report Riset Final | 240 Menit |
 
-### Week 2: Curriculum, Syllabus & Template
-| day | task | output | time |
-|---|---|---|---|
-| senin | Pendefinisian tujuan & Struktur | Capaian Pembelajaran | 240 Menit |
-| selasa | Penyusunan silabus detail | Dokumen Silabus | 240 Menit |
-| rabu | Review internal & Finalisasi Silabus | Silabus Final | 120 Menit |
-| kamis | Pembuatan Template Baku (Modul, Latihan, Tugas) | Master Markdown | 120 Menit |
-| jumat | Simulasi Penulisan Template Sesi 1 | Template Teruji | 240 Menit |
-## Week 3: Compile Sprint Sesi 1 - 5 (Target: 180 Menit/Hari)
+### Week 2: Curriculum, Syllabus, Metadata & Template (Target: 180 Menit/Hari)
 
+#### Senin (Global Blueprint & Setup Sesi 1-5)
+| task | output | time |
+|---|---|---|
+| Pendefinisian Capaian Pembelajaran Global Course | Global Objective | 30 Menit |
+| Setup Global Meta Data (Course Title, Deskripsi, Tags, Kategori) | Global Metadata | 30 Menit |
+| Tujuan & Meta Data Spesifik Sesi 1 | Draft Sesi 1 | 24 Menit |
+| Tujuan & Meta Data Spesifik Sesi 2 | Draft Sesi 2 | 24 Menit |
+| Tujuan & Meta Data Spesifik Sesi 3 | Draft Sesi 3 | 24 Menit |
+| Tujuan & Meta Data Spesifik Sesi 4 | Draft Sesi 4 | 24 Menit |
+| Tujuan & Meta Data Spesifik Sesi 5 | Draft Sesi 5 | 24 Menit |
+
+#### Selasa (Setup Sesi 6 - 12)
+| task | output | time |
+|---|---|---|
+| Tujuan & Meta Data Spesifik Sesi 6 | Draft Sesi 6 | 25 Menit |
+| Tujuan & Meta Data Spesifik Sesi 7 | Draft Sesi 7 | 25 Menit |
+| Tujuan & Meta Data Spesifik Sesi 8 | Draft Sesi 8 | 25 Menit |
+| Tujuan & Meta Data Spesifik Sesi 9 | Draft Sesi 9 | 25 Menit |
+| Tujuan & Meta Data Spesifik Sesi 10 | Draft Sesi 10 | 25 Menit |
+| Tujuan & Meta Data Spesifik Sesi 11 | Draft Sesi 11 | 25 Menit |
+| Tujuan & Meta Data Spesifik Sesi 12 | Draft Sesi 12 | 30 Menit |
+
+#### Rabu (Setup Sesi 13-15 & Breakdown Silabus Detail)
+| task | output | time |
+|---|---|---|
+| Tujuan & Meta Data Spesifik Sesi 13 | Draft Sesi 13 | 20 Menit |
+| Tujuan & Meta Data Spesifik Sesi 14 | Draft Sesi 14 | 20 Menit |
+| Tujuan & Meta Data Spesifik Sesi 15 | Draft Sesi 15 | 20 Menit |
+| Breakdown Silabus Detail Sesi 1 (Sub-bab & Logic) | Silabus Sesi 1 | 24 Menit |
+| Breakdown Silabus Detail Sesi 2 (Sub-bab & Logic) | Silabus Sesi 2 | 24 Menit |
+| Breakdown Silabus Detail Sesi 3 (Sub-bab & Logic) | Silabus Sesi 3 | 24 Menit |
+| Breakdown Silabus Detail Sesi 4 (Sub-bab & Logic) | Silabus Sesi 4 | 24 Menit |
+| Breakdown Silabus Detail Sesi 5 (Sub-bab & Logic) | Silabus Sesi 5 | 24 Menit |
+
+#### Kamis (Breakdown Silabus Detail Sesi Lanjutan)
+| task | output | time |
+|---|---|---|
+| Breakdown Silabus Detail Sesi 6 (Sub-bab & Logic) | Silabus Sesi 6 | 18 Menit |
+| Breakdown Silabus Detail Sesi 7 (Sub-bab & Logic) | Silabus Sesi 7 | 18 Menit |
+| Breakdown Silabus Detail Sesi 8 (Sub-bab & Logic) | Silabus Sesi 8 | 18 Menit |
+| Breakdown Silabus Detail Sesi 9 (Sub-bab & Logic) | Silabus Sesi 9 | 18 Menit |
+| Breakdown Silabus Detail Sesi 10 (Sub-bab & Logic) | Silabus Sesi 10 | 18 Menit |
+| Breakdown Silabus Detail Sesi 11 (Sub-bab & Logic) | Silabus Sesi 11 | 18 Menit |
+| Breakdown Silabus Detail Sesi 12 (Sub-bab & Logic) | Silabus Sesi 12 | 18 Menit |
+| Breakdown Silabus Detail Sesi 13 (Sub-bab & Logic) | Silabus Sesi 13 | 18 Menit |
+| Breakdown Silabus Detail Sesi 14 (Sub-bab & Logic) | Silabus Sesi 14 | 18 Menit |
+| Breakdown Silabus Detail Sesi 15 (Sub-bab & Logic) | Silabus Sesi 15 | 18 Menit |
+
+#### Jumat (Master Template & Simulasi Eksekusi)
+| task | output | time |
+|---|---|---|
+| Pembuatan Master Template Modul (Baku) | Markdown Modul | 30 Menit |
+| Pembuatan Master Template Tugas & Latihan (Baku) | Markdown Tugas | 30 Menit |
+| Inject Front-Matter YAML (Meta Data) ke semua Template | Meta Data Valid | 30 Menit |
+| Review Internal Silabus & Meta Data Keseluruhan | Logic Check | 30 Menit |
+| Simulasi Penulisan Penuh Sesi 1 di Template | Template Teruji | 60 Menit |
+
+## Week 3: Compile Sprint Sesi 1 - 5 (Target: 180 Menit/Hari)
 ### Senin (Penyusunan & Review Sesi 1)
 | task | output | time |
 |---|---|---|
@@ -478,17 +528,26 @@
 | QC Sesi 13 - 15 | File Bersih & Rapi | 90 Menit |
 | Finalisasi Master Repository | Course Siap Upload! | 90 Menit |
 
-### Week 7 
-## Week 7: Visual Production & The Headless Launch
-*Thumbnailing dipadatkan jadi 2 hari. Sisa minggunya langsung gas buat packaging dan rilis. Project tamat di minggu ini!*
+## Week 7: Visual Production, Engine Integration & Alpha Phase
+*Thumbnailing kelar cepat, sisa minggu langsung dipakai buat masukin materi ke sistem dan ngetes internal.*
 
 | day | task | output | time |
 |---|---|---|---|
 | senin | Desain Layout, Copywriting, & Export Thumbnail Sesi 1 - 8 | 8 Gambar (.png/.jpg) | 180 Menit |
 | selasa | Desain Layout & Export Thumbnail Sesi 9 - 15 + Cover Utama | 8 Gambar (.png/.jpg) | 180 Menit |
-| rabu | Embed gambar ke Markdown & Penulisan README.md (User Manual) | Teks + Visual Terintegrasi | 180 Menit |
-| kamis | Testing Ekstrak & Compress folder utama jadi .zip / .tar.gz | Release Candidate | 180 Menit |
-| jumat | Course Live! (Sebar .zip / Push ke Publik Repo) & Selebrasi | Project Closed | 60 Menit |
+| rabu | Upload & Integrasi Materi (Teks + Gambar) ke Course Engine | Engine Terisi Penuh | 180 Menit |
+| kamis | Alpha Testing (Internal UAT: Cek navigasi, path gambar, & logic UI) | Bug Log / Issue List | 180 Menit |
+| jumat | Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
 
+---
 
-### Week 8: Pre-Launch & Review
+## Week 8: Beta Phase, Marketing & The Grand Launch
+*Sistem udah jalan secara internal. Sekarang tes ke user asli, bikin materi promo, dan rilis!*
+
+| day | task | output | time |
+|---|---|---|---|
+| senin | Beta Testing (Soft Launch ke beberapa teman/komunitas buat nyoba) | Feedback User | 180 Menit |
+| selasa | Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate (v1.0) | 180 Menit |
+| rabu | Pembuatan Flyer Release, Banner Sosmed, & Copywriting | Marketing Assets | 180 Menit |
+| kamis | Scheduling Release (Set auto-post sosmed, blast email/grup) | Campaign Scheduled | 180 Menit |
+| jumat | LAUNCHING! | Course | 30 Menit |
