@@ -275,30 +275,30 @@
 #### Senin
 | task | output | time |
 |---|---|---|
-| Formatting & QC Sesi 1 - 3 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 1 - 3 | File Bersih & Rapi | 180 Menit |
 
 #### Selasa
 | task | output | time |
 |---|---|---|
-| Formatting & QC Sesi 4 - 6 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 4 - 6 | File Bersih & Rapi | 180 Menit |
 
 #### Rabu
 | task | output | time |
 |---|---|---|
-| Formatting & QC Sesi 7 - 9 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 7 - 9 | File Bersih & Rapi | 180 Menit |
 
 #### Kamis
 | task | output | time |
 |---|---|---|
-| Formatting & QC Sesi 10 - 12 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 10 - 12 | File Bersih & Rapi | 180 Menit |
 
 #### Jumat
 | task | output | time |
 |---|---|---|
-| Formatting & QC Sesi 13 - 15 | File Bersih & Rapi | 90 Menit |
-| Finalisasi Master Repository (Zip/Git) | Course Siap Upload! | 90 Menit |
+| QC Sesi 13 - 15 | File Bersih & Rapi | 90 Menit |
+| Finalisasi Master Repository | Course Siap Upload! | 90 Menit |
 
-### Week 7: 
+### Week 7 
 
 
 ### Week 8: Pre-Launch & Review
