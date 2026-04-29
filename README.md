@@ -1,76 +1,61 @@
-
 # framework-Course
-## Drafting untuk framework Pembuatan Konten Course
+## Drafting untuk framework Pembuatan Konten Course (Phase 1: 6-Weeks Agile, Speed-QC)
 
-### Week 1: Research Foundation
+### Week 1: Research & Formatting Foundation
 | day | task | output | time |
 |---|---|---|---|
-| senin | Perencanaan riset | Terms of References |240 Menit |
-| selasa | Penyusunan instrumen riset | Panduan Interview/Kuesioner | 240 Menit|
-| rabu | Pelaksanaan riset | Raw Data |240 Menit |
-| kamis | Pelaksanaan riset | Raw Data |240 Menit |
-| jumat | Pelaksanaan riset | Report Riset Awal |240 Menit |
+| senin | Perencanaan riset & Penentuan Format | Terms of References | 240 Menit |
+| selasa | Penyusunan instrumen & Format Laporan | Panduan & Template | 240 Menit |
+| rabu | Pelaksanaan riset lapangan | Raw Data | 240 Menit |
+| kamis | Pelaksanaan riset lapangan | Raw Data | 240 Menit |
+| jumat | Analisis data & Penyusunan Laporan Riset | Report Riset Final | 240 Menit |
 
-### Week 2: Curriculum & Syllabus Design
+### Week 2: Curriculum, Syllabus & Template
 | day | task | output | time |
 |---|---|---|---|
-| senin | Pendefinisian tujuan pembelajaran | Capaian Pembelajaran |120 Menit |
-| senin | Brainstorming struktur bab & modul | Draft Struktur Modul |120 Menit |
-| selasa | Penyusunan silabus detail | Dokumen Silabus |240 Menit |
-| rabu | penyusunan silabus detail| Dokumen Silabus |120 Menit |
-| rabu | Review & Finalisasi Silabus | Silabus Final |120 Menit |
-| Kamis | Penulisan 1 Sesi | Script/Draft Teks |120 Menit |
+| senin | Pendefinisian tujuan & Struktur | Capaian Pembelajaran | 240 Menit |
+| selasa | Penyusunan silabus detail | Dokumen Silabus | 240 Menit |
+| rabu | Review internal & Finalisasi Silabus | Silabus Final | 120 Menit |
+| kamis | Pembuatan Template Baku (Modul, Latihan, Tugas) | Master Markdown | 120 Menit |
+| jumat | Simulasi Penulisan Template Sesi 1 | Template Teruji | 240 Menit |
 
-
+### Week 3: Compile Sprint Sesi 1 - 5 & Mass QC
 | day | task | output | time |
 |---|---|---|---|
-| Kamis | Penulisan 1 sesi | Script/Draft Teks |120 Menit |
-| selasa | Penulisan naskah/materi 5 module | Script/Draft Teks | |
-| rabu | Pembuatan slide presentasi | Deck Slide | |
-| kamis | Pembuatan soal kuis & studi kasus | Kumpulan Soal & Jawaban | |
-| jumat | Review mandiri (QC tahap 1) | Materi Siap Produksi | |
+| senin | Penyusunan Sesi 1 (Modul, Latihan, Tugas) | Draft Sesi 1 | 240 Menit |
+| selasa | Penyusunan Sesi 2 (Modul, Latihan, Tugas) | Draft Sesi 2 | 240 Menit |
+| rabu | Penyusunan Sesi 3 (Modul, Latihan, Tugas) | Draft Sesi 3 | 240 Menit |
+| kamis | Penyusunan Sesi 4 (Modul, Latihan, Tugas) | Draft Sesi 4 | 240 Menit |
+| jumat | Penyusunan Sesi 5 + Mass QC Sesi 1 - 5 | Draft Sesi 5 & QC Sesi 1-5 | 240 Menit |
 
-### Week 4: Production Phase 1 (Recording/Writing)
+### Week 4: Compile Sprint Sesi 6 - 10 & Mass QC
 | day | task | output | time |
 |---|---|---|---|
-| senin | Setup alat (Mic, OBS, dsb) & Test Take | File Test Record | |
-| selasa | Eksekusi produksi Modul 1 | Raw Video/Audio/Teks | |
-| rabu | Eksekusi produksi Modul 2 | Raw Video/Audio/Teks | |
-| kamis | Eksekusi produksi Modul 3 | Raw Video/Audio/Teks | |
-| jumat | Backup & Manajemen File Mentah | Struktur Folder Rapi | |
+| senin | Penyusunan Sesi 6 (Modul, Latihan, Tugas) | Draft Sesi 6 | 240 Menit |
+| selasa | Penyusunan Sesi 7 (Modul, Latihan, Tugas) | Draft Sesi 7 | 240 Menit |
+| rabu | Penyusunan Sesi 8 (Modul, Latihan, Tugas) | Draft Sesi 8 | 240 Menit |
+| kamis | Penyusunan Sesi 9 (Modul, Latihan, Tugas) | Draft Sesi 9 | 240 Menit |
+| jumat | Penyusunan Sesi 10 + Mass QC Sesi 6 - 10 | Draft Sesi 10 & QC Sesi 6-10 | 240 Menit |
 
-### Week 5: Production Phase 2 & Retake
+### Week 5: Compile Sprint Sesi 11 - 15 & Mass QC
 | day | task | output | time |
 |---|---|---|---|
-| senin | Eksekusi produksi Modul sisa | Raw Video/Audio/Teks | |
-| selasa | Recording Intro, Outro, & Trailer | Raw Promo Assets | |
-| rabu | Retake bagian yang *typo*/salah ngomong | Raw Revisi | |
-| kamis | Penyiapan resource tambahan (PDF/Link) | File Lampiran | |
-| jumat | Final check semua aset produksi | Aset Lengkap | |
+| senin | Penyusunan Sesi 11 (Modul, Latihan, Tugas) | Draft Sesi 11 | 240 Menit |
+| selasa | Penyusunan Sesi 12 (Modul, Latihan, Tugas) | Draft Sesi 12 | 240 Menit |
+| rabu | Penyusunan Sesi 13 (Modul, Latihan, Tugas) | Draft Sesi 13 | 240 Menit |
+| kamis | Penyusunan Sesi 14 (Modul, Latihan, Tugas) | Draft Sesi 14 | 240 Menit |
+| jumat | Penyusunan Sesi 15 + Mass QC Sesi 11 - 15 | Draft Sesi 15 & QC Sesi 11-15 | 240 Menit |
 
-### Week 6: Post-Production (Editing)
+### Week 6: Global Sync & Final Formatting
 | day | task | output | time |
 |---|---|---|---|
-| senin | Editing dasar (Cut, Trim, Noise Reduction) | Draft Edit 1 | |
-| selasa | Penambahan elemen visual (Teks, B-roll) | Draft Edit 2 | |
-| rabu | Editing Trailer & Materi Promo | Video Promo | |
-| kamis | Rendering & Exporting | File MP4/PDF Final | |
-| jumat | QC (Nonton/baca ulang hasil akhir) | Konten Lolos QC | |
+| senin | Formatting Global & Sinkronisasi Sesi 1 - 5 | Modul 1-5 Siap Pakai | 240 Menit |
+| selasa | Formatting Global & Sinkronisasi Sesi 6 - 10 | Modul 6-10 Siap Pakai | 240 Menit |
+| rabu | Formatting Global & Sinkronisasi Sesi 11 - 15 | Modul 11-15 Siap Pakai | 240 Menit |
+| kamis | Evaluasi Logic Penugasan vs Capaian Belajar | Penugasan Valid | 240 Menit |
+| jumat | Finalisasi Master Repository Materi (Zip/Git Push) | Course Siap Upload! | 240 Menit |
 
 ### Week 7: Setup & Integration ke Platform
-| day | task | output | time |
-|---|---|---|---|
-| senin | Setup LMS (misal: integrasi ke Helena/platform lain) | Draft Kelas di LMS | |
-| selasa | Upload semua video & materi | File Terunggah | |
-| rabu | Input deskripsi modul & setting kuis | Struktur Kelas Live | |
-| kamis | Setting harga, sertifikat, & rules | Konfigurasi Akses | |
-| jumat | End-to-End Testing (Simulasi jadi murid) | Laporan Testing | |
+
 
 ### Week 8: Pre-Launch & Review
-| day | task | output | time |
-|---|---|---|---|
-| senin | Pembuatan materi promosi (Copywriting) | Draft Promosi | |
-| selasa | Pembuatan visual banner promosi | Desain Banner | |
-| rabu | Soft Launch (Internal review ke tim/komunitas) | Feedback Awal | |
-| kamis | Revisi minor berdasarkan feedback | Course Final | |
-| jumat | Grand Launching & Publikasi | Course Live & Berjalan | |
