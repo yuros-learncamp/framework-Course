@@ -450,20 +450,6 @@
 
 ---
 
-## Week 6: Global Conflict Resolution & File Purging
-*Karena QC udah dicicil tiap 5 menit waktu ngetik, minggu ini murni buat ngecek logika keseluruhan biar materi antar sesi nggak tabrakan.*
-
-| day | task | output | time |
-|---|---|---|---|
-| senin | Evaluasi Logic Global Sesi 1 - 5 | File Bersih | 180 Menit |
-| selasa | Evaluasi Logic Global Sesi 6 - 10 | File Bersih | 180 Menit |
-| rabu | Evaluasi Logic Global Sesi 11 - 15 | File Bersih | 180 Menit |
-| kamis | Resolve Materi Tabrakan / Salah Urutan | Course Logic Valid | 180 Menit |
-| jumat | Purging file mentahan & draft sampah | Clean Directory | 180 Menit |
-
----
----
-
 ### Week 6: Global Formatting, QC, & Finalisasi (Target: 180 Menit/Hari)
 
 #### Senin
@@ -493,6 +479,16 @@
 | Finalisasi Master Repository | Course Siap Upload! | 90 Menit |
 
 ### Week 7 
+## Week 7: Visual Production & The Headless Launch
+*Thumbnailing dipadatkan jadi 2 hari. Sisa minggunya langsung gas buat packaging dan rilis. Project tamat di minggu ini!*
+
+| day | task | output | time |
+|---|---|---|---|
+| senin | Desain Layout, Copywriting, & Export Thumbnail Sesi 1 - 8 | 8 Gambar (.png/.jpg) | 180 Menit |
+| selasa | Desain Layout & Export Thumbnail Sesi 9 - 15 + Cover Utama | 8 Gambar (.png/.jpg) | 180 Menit |
+| rabu | Embed gambar ke Markdown & Penulisan README.md (User Manual) | Teks + Visual Terintegrasi | 180 Menit |
+| kamis | Testing Ekstrak & Compress folder utama jadi .zip / .tar.gz | Release Candidate | 180 Menit |
+| jumat | Course Live! (Sebar .zip / Push ke Publik Repo) & Selebrasi | Project Closed | 60 Menit |
 
 
 ### Week 8: Pre-Launch & Review
