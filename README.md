@@ -476,17 +476,31 @@
 #### Rabu (Visual Production Sesi 1 - 8)
 | task | output | time |
 |---|---|---|
-| Desain Layout & Export Thumbnail Sesi 1 - 8 | 8 Gambar (.png/.jpg) | 180 Menit |
+| Desain Layout & Export Thumbnail Sesi 1 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 2 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 3 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 4 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 5 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 6 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 7 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 8 | 1 Gambar (.png/.jpg) | 22.5 Menit |
 
 #### Kamis (Visual Production Sesi 9 - 15 & Master Cover)
 | task | output | time |
 |---|---|---|
-| Desain Layout & Export Thumbnail Sesi 9 - 15 + Cover Utama | 8 Gambar (.png/.jpg) | 180 Menit |
+| Desain Layout & Export Thumbnail Sesi 9 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 10 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 11 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 12 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 13 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 14 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Thumbnail Sesi 15 | 1 Gambar (.png/.jpg) | 22.5 Menit |
+| Desain Layout & Export Cover Utama Course | 1 Gambar (.png/.jpg) | 22.5 Menit |
 
 #### Jumat (Global QC Sesi 1 - 3)
 | task | output | time |
 |---|---|---|
-| QC Sesi 1 - 3 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 1 - 3 | false sesi 1-3 | 180 Menit |
 
 ---
 
@@ -496,22 +510,22 @@
 #### Senin (Global QC Sesi 4 - 6)
 | task | output | time |
 |---|---|---|
-| QC Sesi 4 - 6 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 4 - 6 | false sesi 4 - 6 | 180 Menit |
 
 #### Selasa (Global QC Sesi 7 - 9)
 | task | output | time |
 |---|---|---|
-| QC Sesi 7 - 9 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 7 - 9 | false sesi 7- 9 | 180 Menit |
 
 #### Rabu (Global QC Sesi 10 - 12)
 | task | output | time |
 |---|---|---|
-| QC Sesi 10 - 12 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 10 - 12 | false 10 - 12 | 180 Menit |
 
 #### Kamis (Global QC Sesi 13 - 15 & Finalisasi)
 | task | output | time |
 |---|---|---|
-| QC Sesi 13 - 15 | File Bersih & Rapi | 90 Menit |
+| QC Sesi 13 - 15 | false 13 - 15 | 90 Menit |
 | Finalisasi Master Repository | Course Siap Upload! | 90 Menit |
 
 #### Jumat (Beta Testing & Revisi Beta)
