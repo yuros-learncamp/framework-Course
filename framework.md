@@ -15,494 +15,81 @@
 
 ---
 
-### Week 2: Curriculum, Syllabus, Metadata & Sesi 1-3 (Target: 180 Menit/Hari)
+### Week 2: Silabus, penyusunan sesi 1-15 dan QC 1-6
 
-#### Senin (Capaian Pembelajaran & Rubrik)
+#### Senin 
 |day | task | output | time |
 |---|---|---|---|
 |senin |Pembuatan silabus| Draft Silabus | 150 Menit |
 |senin| Finalisasi draft silabus| Silabus | 30 Menit |
 
-| task | output | time |
+#### Selasa 
 |day | task | output | time |
 |---|---|---|---|
 |selasa |Penyusunan Sesi 1| draft sesi 1| 12 Menit |
-|senin |Penyusunan Sesi 2| draft sesi 2| 12 Menit |
-|senin |Penyusunan Sesi 3| draft sesi 3| 12 Menit |
-|senin |Penyusunan Sesi 4| draft sesi 4| 12 Menit |
-|senin |Penyusunan Sesi 5| draft sesi 5| 12 Menit |
-|senin |Penyusunan Sesi 6| draft sesi 6| 12 Menit |
-|senin |Penyusunan Sesi 7| draft sesi 7| 12 Menit |
-|senin |Penyusunan Sesi 8| draft sesi 8| 12 Menit |
-|senin |Penyusunan Sesi 9| draft sesi 9| 12 Menit |
-|senin |Penyusunan Sesi 10| draft sesi 10| 12 Menit |
-|senin |Penyusunan Sesi 11| draft sesi 11| 12 Menit |
-|senin |Penyusunan Sesi 12| draft sesi 12| 12 Menit |
-|senin |Penyusunan Sesi 13| draft sesi 13| 12 Menit |
-|senin |Penyusunan Sesi 14| draft sesi 14| 12 Menit |
-|senin |Penyusunan Sesi 15| draft sesi 15| 12 Menit |
+|selasa |Penyusunan Sesi 2| draft sesi 2| 12 Menit |
+|selasa |Penyusunan Sesi 3| draft sesi 3| 12 Menit |
+|selasa |Penyusunan Sesi 4| draft sesi 4| 12 Menit |
+|selasa |Penyusunan Sesi 5| draft sesi 5| 12 Menit |
+|selasa |Penyusunan Sesi 6| draft sesi 6| 12 Menit |
+|selasa |Penyusunan Sesi 7| draft sesi 7| 12 Menit |
+|selasa |Penyusunan Sesi 8| draft sesi 8| 12 Menit |
+|selasa |Penyusunan Sesi 9| draft sesi 9| 12 Menit |
+|selasa |Penyusunan Sesi 10| draft sesi 10| 12 Menit |
+|selasa |Penyusunan Sesi 11| draft sesi 11| 12 Menit |
+|selasa |Penyusunan Sesi 12| draft sesi 12| 12 Menit |
+|selasa |Penyusunan Sesi 13| draft sesi 13| 12 Menit |
+|selasa |Penyusunan Sesi 14| draft sesi 14| 12 Menit |
+|selasa |Penyusunan Sesi 15| draft sesi 15| 12 Menit |
 
+#### rabu 
+|day | task | output | time |
+|---|---|---|---|
+|rabu |QC Sesi 1| repo final | 180 Menit |
+|rabu |QC Sesi 2| repo final | 180 Menit |
 
-#### Rabu (Penyusunan & Review Sesi 1)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 1 (Modul 1) | Draft Sesi 1 | 15 Menit |
-| Review Sesi 1 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 1 (Modul 2) | Draft Sesi 1 | 15 Menit |
-| Review Sesi 1 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 1 (Modul 3) | Draft Sesi 1 | 15 Menit |
-| Review Sesi 1 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 1 (Modul 4) | Draft Sesi 1 | 15 Menit |
-| Review Sesi 1 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 1 (Modul 5) | Draft Sesi 1 | 15 Menit |
-| Review Sesi 1 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 1 (Tugas 1) | Draft Sesi 1 | 5 Menit |
-| Review Sesi 1 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 1 (Tugas 2) | Draft Sesi 1 | 5 Menit |
-| Review Sesi 1 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 1 (Tugas 3) | Draft Sesi 1 | 5 Menit |
-| Review Sesi 1 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 1 (Tugas 4) | Draft Sesi 1 | 5 Menit |
-| Review Sesi 1 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 1 (Tugas 5) | Draft Sesi 1 | 5 Menit |
-| Review Sesi 1 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 1 (Latihan 1) | Draft Sesi 1 | 10 Menit |
-| Review Sesi 1 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 1 (Latihan 2) | Draft Sesi 1 | 10 Menit |
-| Review Sesi 1 (Latihan 2) | Latihan Valid | 5 Menit |
+#### kamis 
+|day | task | output | time |
+|---|---|---|---|
+|kamis |QC Sesi 3 | repo final | 180 Menit |
+|kamis |QC Sesi 4 | repo final | 180 Menit |
 
-#### Kamis (Penyusunan & Review Sesi 2)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 2 (Modul 1) | Draft Sesi 2 | 15 Menit |
-| Review Sesi 2 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 2 (Modul 2) | Draft Sesi 2 | 15 Menit |
-| Review Sesi 2 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 2 (Modul 3) | Draft Sesi 2 | 15 Menit |
-| Review Sesi 2 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 2 (Modul 4) | Draft Sesi 2 | 15 Menit |
-| Review Sesi 2 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 2 (Modul 5) | Draft Sesi 2 | 15 Menit |
-| Review Sesi 2 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 2 (Tugas 1) | Draft Sesi 2 | 5 Menit |
-| Review Sesi 2 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 2 (Tugas 2) | Draft Sesi 2 | 5 Menit |
-| Review Sesi 2 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 2 (Tugas 3) | Draft Sesi 2 | 5 Menit |
-| Review Sesi 2 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 2 (Tugas 4) | Draft Sesi 2 | 5 Menit |
-| Review Sesi 2 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 2 (Tugas 5) | Draft Sesi 2 | 5 Menit |
-| Review Sesi 2 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 2 (Latihan 1) | Draft Sesi 2 | 10 Menit |
-| Review Sesi 2 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 2 (Latihan 2) | Draft Sesi 2 | 10 Menit |
-| Review Sesi 2 (Latihan 2) | Latihan Valid | 5 Menit |
+#### Jumat 
+|day | task | output | time |
+|---|---|---|---|
+|jumat |QC Sesi 5 | repo final | 180 Menit |
+|jumat |QC Sesi 6 | repo final | 180 Menit |
 
-#### Jumat (Penyusunan & Review Sesi 3)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 3 (Modul 1) | Draft Sesi 3 | 15 Menit |
-| Review Sesi 3 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 3 (Modul 2) | Draft Sesi 3 | 15 Menit |
-| Review Sesi 3 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 3 (Modul 3) | Draft Sesi 3 | 15 Menit |
-| Review Sesi 3 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 3 (Modul 4) | Draft Sesi 3 | 15 Menit |
-| Review Sesi 3 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 3 (Modul 5) | Draft Sesi 3 | 15 Menit |
-| Review Sesi 3 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 3 (Tugas 1) | Draft Sesi 3 | 5 Menit |
-| Review Sesi 3 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 3 (Tugas 2) | Draft Sesi 3 | 5 Menit |
-| Review Sesi 3 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 3 (Tugas 3) | Draft Sesi 3 | 5 Menit |
-| Review Sesi 3 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 3 (Tugas 4) | Draft Sesi 3 | 5 Menit |
-| Review Sesi 3 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 3 (Tugas 5) | Draft Sesi 3 | 5 Menit |
-| Review Sesi 3 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 3 (Latihan 1) | Draft Sesi 3 | 10 Menit |
-| Review Sesi 3 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 3 (Latihan 2) | Draft Sesi 3 | 10 Menit |
-| Review Sesi 3 (Latihan 2) | Latihan Valid | 5 Menit |
+### Week 3
+#### Senin QC Sesi 7-8
+|day | task | output | time |
+|---|---|---|---|
+|senin |QC Sesi 7 | repo final | 180 Menit |
+|senin |QC Sesi 8 | repo final | 180 Menit |
 
----
+#### selasa QC Sesi 9-10
+|day | task | output | time |
+|---|---|---|---|
+|selasa |QC Sesi 9 | repo final | 180 Menit |
+|selasa |QC Sesi 10 | repo final | 180 Menit |
 
-### Week 3: Compile Sprint Sesi 4 - 8 (Target: 180 Menit/Hari)
+#### rabu QC Sesi 11-12
+|day | task | output | time |
+|---|---|---|---|
+|rabu |QC Sesi 11 | repo final | 180 Menit |
+|rabu |QC Sesi 12 | repo final | 180 Menit |
 
-#### Senin (Penyusunan & Review Sesi 4)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 4 (Modul 1) | Draft Sesi 4 | 15 Menit |
-| Review Sesi 4 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 4 (Modul 2) | Draft Sesi 4 | 15 Menit |
-| Review Sesi 4 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 4 (Modul 3) | Draft Sesi 4 | 15 Menit |
-| Review Sesi 4 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 4 (Modul 4) | Draft Sesi 4 | 15 Menit |
-| Review Sesi 4 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 4 (Modul 5) | Draft Sesi 4 | 15 Menit |
-| Review Sesi 4 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 4 (Tugas 1) | Draft Sesi 4 | 5 Menit |
-| Review Sesi 4 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 4 (Tugas 2) | Draft Sesi 4 | 5 Menit |
-| Review Sesi 4 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 4 (Tugas 3) | Draft Sesi 4 | 5 Menit |
-| Review Sesi 4 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 4 (Tugas 4) | Draft Sesi 4 | 5 Menit |
-| Review Sesi 4 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 4 (Tugas 5) | Draft Sesi 4 | 5 Menit |
-| Review Sesi 4 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 4 (Latihan 1) | Draft Sesi 4 | 10 Menit |
-| Review Sesi 4 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 4 (Latihan 2) | Draft Sesi 4 | 10 Menit |
-| Review Sesi 4 (Latihan 2) | Latihan Valid | 5 Menit |
+#### kamis QC Sesi 13-14
+|day | task | output | time |
+|---|---|---|---|
+|kamis |QC Sesi 13| repo final | 180 Menit |
+|kamis |QC Sesi 14 | repo final | 180 Menit |
 
-#### Selasa (Penyusunan & Review Sesi 5)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 5 (Modul 1) | Draft Sesi 5 | 15 Menit |
-| Review Sesi 5 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 5 (Modul 2) | Draft Sesi 5 | 15 Menit |
-| Review Sesi 5 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 5 (Modul 3) | Draft Sesi 5 | 15 Menit |
-| Review Sesi 5 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 5 (Modul 4) | Draft Sesi 5 | 15 Menit |
-| Review Sesi 5 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 5 (Modul 5) | Draft Sesi 5 | 15 Menit |
-| Review Sesi 5 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 5 (Tugas 1) | Draft Sesi 5 | 5 Menit |
-| Review Sesi 5 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 5 (Tugas 2) | Draft Sesi 5 | 5 Menit |
-| Review Sesi 5 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 5 (Tugas 3) | Draft Sesi 5 | 5 Menit |
-| Review Sesi 5 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 5 (Tugas 4) | Draft Sesi 5 | 5 Menit |
-| Review Sesi 5 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 5 (Tugas 5) | Draft Sesi 5 | 5 Menit |
-| Review Sesi 5 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 5 (Latihan 1) | Draft Sesi 5 | 10 Menit |
-| Review Sesi 5 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 5 (Latihan 2) | Draft Sesi 5 | 10 Menit |
-| Review Sesi 5 (Latihan 2) | Latihan Valid | 5 Menit |
-
-#### Rabu (Penyusunan & Review Sesi 6)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 6 (Modul 1) | Draft Sesi 6 | 15 Menit |
-| Review Sesi 6 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 6 (Modul 2) | Draft Sesi 6 | 15 Menit |
-| Review Sesi 6 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 6 (Modul 3) | Draft Sesi 6 | 15 Menit |
-| Review Sesi 6 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 6 (Modul 4) | Draft Sesi 6 | 15 Menit |
-| Review Sesi 6 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 6 (Modul 5) | Draft Sesi 6 | 15 Menit |
-| Review Sesi 6 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 6 (Tugas 1) | Draft Sesi 6 | 5 Menit |
-| Review Sesi 6 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 6 (Tugas 2) | Draft Sesi 6 | 5 Menit |
-| Review Sesi 6 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 6 (Tugas 3) | Draft Sesi 6 | 5 Menit |
-| Review Sesi 6 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 6 (Tugas 4) | Draft Sesi 6 | 5 Menit |
-| Review Sesi 6 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 6 (Tugas 5) | Draft Sesi 6 | 5 Menit |
-| Review Sesi 6 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 6 (Latihan 1) | Draft Sesi 6 | 10 Menit |
-| Review Sesi 6 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 6 (Latihan 2) | Draft Sesi 6 | 10 Menit |
-| Review Sesi 6 (Latihan 2) | Latihan Valid | 5 Menit |
-
-#### Kamis (Penyusunan & Review Sesi 7)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 7 (Modul 1) | Draft Sesi 7 | 15 Menit |
-| Review Sesi 7 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 7 (Modul 2) | Draft Sesi 7 | 15 Menit |
-| Review Sesi 7 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 7 (Modul 3) | Draft Sesi 7 | 15 Menit |
-| Review Sesi 7 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 7 (Modul 4) | Draft Sesi 7 | 15 Menit |
-| Review Sesi 7 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 7 (Modul 5) | Draft Sesi 7 | 15 Menit |
-| Review Sesi 7 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 7 (Tugas 1) | Draft Sesi 7 | 5 Menit |
-| Review Sesi 7 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 7 (Tugas 2) | Draft Sesi 7 | 5 Menit |
-| Review Sesi 7 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 7 (Tugas 3) | Draft Sesi 7 | 5 Menit |
-| Review Sesi 7 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 7 (Tugas 4) | Draft Sesi 7 | 5 Menit |
-| Review Sesi 7 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 7 (Tugas 5) | Draft Sesi 7 | 5 Menit |
-| Review Sesi 7 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 7 (Latihan 1) | Draft Sesi 7 | 10 Menit |
-| Review Sesi 7 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 7 (Latihan 2) | Draft Sesi 7 | 10 Menit |
-| Review Sesi 7 (Latihan 2) | Latihan Valid | 5 Menit |
-
-#### Jumat (Penyusunan & Review Sesi 8)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 8 (Modul 1) | Draft Sesi 8 | 15 Menit |
-| Review Sesi 8 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 8 (Modul 2) | Draft Sesi 8 | 15 Menit |
-| Review Sesi 8 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 8 (Modul 3) | Draft Sesi 8 | 15 Menit |
-| Review Sesi 8 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 8 (Modul 4) | Draft Sesi 8 | 15 Menit |
-| Review Sesi 8 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 8 (Modul 5) | Draft Sesi 8 | 15 Menit |
-| Review Sesi 8 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 8 (Tugas 1) | Draft Sesi 8 | 5 Menit |
-| Review Sesi 8 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 8 (Tugas 2) | Draft Sesi 8 | 5 Menit |
-| Review Sesi 8 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 8 (Tugas 3) | Draft Sesi 8 | 5 Menit |
-| Review Sesi 8 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 8 (Tugas 4) | Draft Sesi 8 | 5 Menit |
-| Review Sesi 8 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 8 (Tugas 5) | Draft Sesi 8 | 5 Menit |
-| Review Sesi 8 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 8 (Latihan 1) | Draft Sesi 8 | 10 Menit |
-| Review Sesi 8 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 8 (Latihan 2) | Draft Sesi 8 | 10 Menit |
-| Review Sesi 8 (Latihan 2) | Latihan Valid | 5 Menit |
-
----
-
-### Week 4: Compile Sprint Sesi 9 - 13 (Target: 180 Menit/Hari)
-
-#### Senin (Penyusunan & Review Sesi 9)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 9 (Modul 1) | Draft Sesi 9 | 15 Menit |
-| Review Sesi 9 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 9 (Modul 2) | Draft Sesi 9 | 15 Menit |
-| Review Sesi 9 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 9 (Modul 3) | Draft Sesi 9 | 15 Menit |
-| Review Sesi 9 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 9 (Modul 4) | Draft Sesi 9 | 15 Menit |
-| Review Sesi 9 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 9 (Modul 5) | Draft Sesi 9 | 15 Menit |
-| Review Sesi 9 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 9 (Tugas 1) | Draft Sesi 9 | 5 Menit |
-| Review Sesi 9 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 9 (Tugas 2) | Draft Sesi 9 | 5 Menit |
-| Review Sesi 9 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 9 (Tugas 3) | Draft Sesi 9 | 5 Menit |
-| Review Sesi 9 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 9 (Tugas 4) | Draft Sesi 9 | 5 Menit |
-| Review Sesi 9 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 9 (Tugas 5) | Draft Sesi 9 | 5 Menit |
-| Review Sesi 9 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 9 (Latihan 1) | Draft Sesi 9 | 10 Menit |
-| Review Sesi 9 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 9 (Latihan 2) | Draft Sesi 9 | 10 Menit |
-| Review Sesi 9 (Latihan 2) | Latihan Valid | 5 Menit |
-
-#### Selasa (Penyusunan & Review Sesi 10)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 10 (Modul 1) | Draft Sesi 10 | 15 Menit |
-| Review Sesi 10 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 10 (Modul 2) | Draft Sesi 10 | 15 Menit |
-| Review Sesi 10 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 10 (Modul 3) | Draft Sesi 10 | 15 Menit |
-| Review Sesi 10 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 10 (Modul 4) | Draft Sesi 10 | 15 Menit |
-| Review Sesi 10 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 10 (Modul 5) | Draft Sesi 10 | 15 Menit |
-| Review Sesi 10 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 10 (Tugas 1) | Draft Sesi 10 | 5 Menit |
-| Review Sesi 10 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 10 (Tugas 2) | Draft Sesi 10 | 5 Menit |
-| Review Sesi 10 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 10 (Tugas 3) | Draft Sesi 10 | 5 Menit |
-| Review Sesi 10 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 10 (Tugas 4) | Draft Sesi 10 | 5 Menit |
-| Review Sesi 10 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 10 (Tugas 5) | Draft Sesi 10 | 5 Menit |
-| Review Sesi 10 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 10 (Latihan 1) | Draft Sesi 10 | 10 Menit |
-| Review Sesi 10 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 10 (Latihan 2) | Draft Sesi 10 | 10 Menit |
-| Review Sesi 10 (Latihan 2) | Latihan Valid | 5 Menit |
-
-#### Rabu (Penyusunan & Review Sesi 11)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 11 (Modul 1) | Draft Sesi 11 | 15 Menit |
-| Review Sesi 11 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 11 (Modul 2) | Draft Sesi 11 | 15 Menit |
-| Review Sesi 11 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 11 (Modul 3) | Draft Sesi 11 | 15 Menit |
-| Review Sesi 11 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 11 (Modul 4) | Draft Sesi 11 | 15 Menit |
-| Review Sesi 11 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 11 (Modul 5) | Draft Sesi 11 | 15 Menit |
-| Review Sesi 11 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 11 (Tugas 1) | Draft Sesi 11 | 5 Menit |
-| Review Sesi 11 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 11 (Tugas 2) | Draft Sesi 11 | 5 Menit |
-| Review Sesi 11 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 11 (Tugas 3) | Draft Sesi 11 | 5 Menit |
-| Review Sesi 11 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 11 (Tugas 4) | Draft Sesi 11 | 5 Menit |
-| Review Sesi 11 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 11 (Tugas 5) | Draft Sesi 11 | 5 Menit |
-| Review Sesi 11 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 11 (Latihan 1) | Draft Sesi 11 | 10 Menit |
-| Review Sesi 11 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 11 (Latihan 2) | Draft Sesi 11 | 10 Menit |
-| Review Sesi 11 (Latihan 2) | Latihan Valid | 5 Menit |
-
-#### Kamis (Penyusunan & Review Sesi 12)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 12 (Modul 1) | Draft Sesi 12 | 15 Menit |
-| Review Sesi 12 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 12 (Modul 2) | Draft Sesi 12 | 15 Menit |
-| Review Sesi 12 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 12 (Modul 3) | Draft Sesi 12 | 15 Menit |
-| Review Sesi 12 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 12 (Modul 4) | Draft Sesi 12 | 15 Menit |
-| Review Sesi 12 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 12 (Modul 5) | Draft Sesi 12 | 15 Menit |
-| Review Sesi 12 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 12 (Tugas 1) | Draft Sesi 12 | 5 Menit |
-| Review Sesi 12 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 12 (Tugas 2) | Draft Sesi 12 | 5 Menit |
-| Review Sesi 12 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 12 (Tugas 3) | Draft Sesi 12 | 5 Menit |
-| Review Sesi 12 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 12 (Tugas 4) | Draft Sesi 12 | 5 Menit |
-| Review Sesi 12 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 12 (Tugas 5) | Draft Sesi 12 | 5 Menit |
-| Review Sesi 12 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 12 (Latihan 1) | Draft Sesi 12 | 10 Menit |
-| Review Sesi 12 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 12 (Latihan 2) | Draft Sesi 12 | 10 Menit |
-| Review Sesi 12 (Latihan 2) | Latihan Valid | 5 Menit |
-
-#### Jumat (Penyusunan & Review Sesi 13)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 13 (Modul 1) | Draft Sesi 13 | 15 Menit |
-| Review Sesi 13 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 13 (Modul 2) | Draft Sesi 13 | 15 Menit |
-| Review Sesi 13 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 13 (Modul 3) | Draft Sesi 13 | 15 Menit |
-| Review Sesi 13 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 13 (Modul 4) | Draft Sesi 13 | 15 Menit |
-| Review Sesi 13 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 13 (Modul 5) | Draft Sesi 13 | 15 Menit |
-| Review Sesi 13 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 13 (Tugas 1) | Draft Sesi 13 | 5 Menit |
-| Review Sesi 13 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 13 (Tugas 2) | Draft Sesi 13 | 5 Menit |
-| Review Sesi 13 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 13 (Tugas 3) | Draft Sesi 13 | 5 Menit |
-| Review Sesi 13 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 13 (Tugas 4) | Draft Sesi 13 | 5 Menit |
-| Review Sesi 13 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 13 (Tugas 5) | Draft Sesi 13 | 5 Menit |
-| Review Sesi 13 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 13 (Latihan 1) | Draft Sesi 13 | 10 Menit |
-| Review Sesi 13 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 13 (Latihan 2) | Draft Sesi 13 | 10 Menit |
-| Review Sesi 13 (Latihan 2) | Latihan Valid | 5 Menit |
-
----
-
-### Week 5: Final Sprint Sesi 14-15, Visual, & Awal QC (Target: 180 Menit/Hari)
-
-#### Senin (Penyusunan & Review Sesi 14)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 14 (Modul 1) | Draft Sesi 14 | 15 Menit |
-| Review Sesi 14 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 14 (Modul 2) | Draft Sesi 14 | 15 Menit |
-| Review Sesi 14 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 14 (Modul 3) | Draft Sesi 14 | 15 Menit |
-| Review Sesi 14 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 14 (Modul 4) | Draft Sesi 14 | 15 Menit |
-| Review Sesi 14 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 14 (Modul 5) | Draft Sesi 14 | 15 Menit |
-| Review Sesi 14 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 14 (Tugas 1) | Draft Sesi 14 | 5 Menit |
-| Review Sesi 14 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 14 (Tugas 2) | Draft Sesi 14 | 5 Menit |
-| Review Sesi 14 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 14 (Tugas 3) | Draft Sesi 14 | 5 Menit |
-| Review Sesi 14 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 14 (Tugas 4) | Draft Sesi 14 | 5 Menit |
-| Review Sesi 14 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 14 (Tugas 5) | Draft Sesi 14 | 5 Menit |
-| Review Sesi 14 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 14 (Latihan 1) | Draft Sesi 14 | 10 Menit |
-| Review Sesi 14 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 14 (Latihan 2) | Draft Sesi 14 | 10 Menit |
-| Review Sesi 14 (Latihan 2) | Latihan Valid | 5 Menit |
-
-#### Selasa (Penyusunan & Review Sesi 15)
-| task | output | time |
-|---|---|---|
-| Penyusunan Sesi 15 (Modul 1) | Draft Sesi 15 | 15 Menit |
-| Review Sesi 15 (Modul 1) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 15 (Modul 2) | Draft Sesi 15 | 15 Menit |
-| Review Sesi 15 (Modul 2) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 15 (Modul 3) | Draft Sesi 15 | 15 Menit |
-| Review Sesi 15 (Modul 3) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 15 (Modul 4) | Draft Sesi 15 | 15 Menit |
-| Review Sesi 15 (Modul 4) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 15 (Modul 5) | Draft Sesi 15 | 15 Menit |
-| Review Sesi 15 (Modul 5) | Modul Valid | 5 Menit |
-| Penyusunan Sesi 15 (Tugas 1) | Draft Sesi 15 | 5 Menit |
-| Review Sesi 15 (Tugas 1) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 15 (Tugas 2) | Draft Sesi 15 | 5 Menit |
-| Review Sesi 15 (Tugas 2) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 15 (Tugas 3) | Draft Sesi 15 | 5 Menit |
-| Review Sesi 15 (Tugas 3) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 15 (Tugas 4) | Draft Sesi 15 | 5 Menit |
-| Review Sesi 15 (Tugas 4) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 15 (Tugas 5) | Draft Sesi 15 | 5 Menit |
-| Review Sesi 15 (Tugas 5) | Tugas Valid | 5 Menit |
-| Penyusunan Sesi 15 (Latihan 1) | Draft Sesi 15 | 10 Menit |
-| Review Sesi 15 (Latihan 1) | Latihan Valid | 5 Menit |
-| Penyusunan Sesi 15 (Latihan 2) | Draft Sesi 15 | 10 Menit |
-| Review Sesi 15 (Latihan 2) | Latihan Valid | 5 Menit |
-
-#### Rabu (Visual Production Sesi 1 - 8)
-| task | output | time |
-|---|---|---|
-| Desain Layout & Export Thumbnail Sesi 1 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 2 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 3 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 4 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 5 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 6 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 7 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 8 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-
-#### Kamis (Visual Production Sesi 9 - 15 & Master Cover)
-| task | output | time |
-|---|---|---|
-| Desain Layout & Export Thumbnail Sesi 9 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 10 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 11 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 12 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 13 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 14 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Thumbnail Sesi 15 | 1 Gambar (.png/.jpg) | 22.5 Menit |
-| Desain Layout & Export Cover Utama Course | 1 Gambar (.png/.jpg) | 22.5 Menit |
-
-#### Jumat (Global QC Sesi 1 - 3)
-| task | output | time |
-|---|---|---|
-| QC Sesi 1 - 3 | false sesi 1-3 | 180 Menit |
+#### Jumat
+#### jumat QC Sesi 15
+|day | task | output | time |
+|---|---|---|---|
+|jumt |QC Sesi 15 | repo final | 180 Menit |
 
 ---
 
