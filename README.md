@@ -477,41 +477,41 @@
 | task | output | time |
 |---|---|---|
 | Desain Layout Thumbnail Sesi 1 | Draft Canvas Sesi 1 | 20 Menit |
-| Export & Rename Thumbnail Sesi 1 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 1 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 2 | Draft Canvas Sesi 2 | 20 Menit |
-| Export & Rename Thumbnail Sesi 2 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 2 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 3 | Draft Canvas Sesi 3 | 20 Menit |
-| Export & Rename Thumbnail Sesi 3 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 3 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 4 | Draft Canvas Sesi 4 | 20 Menit |
-| Export & Rename Thumbnail Sesi 4 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 4 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 5 | Draft Canvas Sesi 5 | 20 Menit |
-| Export & Rename Thumbnail Sesi 5 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 5 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 6 | Draft Canvas Sesi 6 | 20 Menit |
-| Export & Rename Thumbnail Sesi 6 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 6 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 7 | Draft Canvas Sesi 7 | 20 Menit |
-| Export & Rename Thumbnail Sesi 7 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 7 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 8 | Draft Canvas Sesi 8 | 20 Menit |
-| Export & Rename Thumbnail Sesi 8 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 8 | 1 Gambar (.png/.jpg) | 2 Menit |
 
 #### Kamis (Visual Production Sesi 9 - 15 & Master Cover)
 | task | output | time |
 |---|---|---|
 | Desain Layout Thumbnail Sesi 9 | Draft Canvas Sesi 9 | 20 Menit |
-| Export & Rename Thumbnail Sesi 9 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 9 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 10 | Draft Canvas Sesi 10 | 20 Menit |
-| Export & Rename Thumbnail Sesi 10 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 10 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 11 | Draft Canvas Sesi 11 | 20 Menit |
-| Export & Rename Thumbnail Sesi 11 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 11 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 12 | Draft Canvas Sesi 12 | 20 Menit |
-| Export & Rename Thumbnail Sesi 12 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 12 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 13 | Draft Canvas Sesi 13 | 20 Menit |
-| Export & Rename Thumbnail Sesi 13 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 13 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 14 | Draft Canvas Sesi 14 | 20 Menit |
-| Export & Rename Thumbnail Sesi 14 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 14 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Thumbnail Sesi 15 | Draft Canvas Sesi 15 | 20 Menit |
-| Export & Rename Thumbnail Sesi 15 | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Thumbnail Sesi 15 | 1 Gambar (.png/.jpg) | 2 Menit |
 | Desain Layout Master Cover Course | Draft Canvas Cover | 20 Menit |
-| Export & Rename Master Cover Course | 1 Gambar (.png/.jpg) | 2 Menit |
+| Export Master Cover Course | 1 Gambar (.png/.jpg) | 2 Menit |
 
 #### Jumat (Global QC Sesi 1 - 3)
 | task | output | time |
