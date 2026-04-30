@@ -357,11 +357,6 @@
 ### Kamis (Penyusunan & Review Sesi 9)
 | task | output | time |
 |---|---|---|
-
-
-### Jumat (Penyusunan & Review Sesi 10)
-| task | output | time |
-|---|---|---|
 | Penyusunan Sesi 12 (Modul 1) | Draft Sesi 12 | 15 Menit |
 | Review Sesi 12 (Modul 1) | Modul Valid | 5 Menit |
 | Penyusunan Sesi 12 (Modul 2) | Draft Sesi 12 | 15 Menit |
@@ -387,11 +382,7 @@
 | Penyusunan Sesi 12 (Latihan 2) | Draft Sesi 12 | 10 Menit |
 | Review Sesi 12 (Latihan 2) | Latihan Valid | 5 Menit |
 
----
-
-## Week 5: Compile Sprint Sesi 11 - 15 (Target: 180 Menit/Hari)
-
-### Senin (Penyusunan & Review Sesi 11)
+### Jumat (Penyusunan & Review Sesi 10)
 | task | output | time |
 |---|---|---|
 | Penyusunan Sesi 13 (Modul 1) | Draft Sesi 13 | 15 Menit |
@@ -419,7 +410,12 @@
 | Penyusunan Sesi 13 (Latihan 2) | Draft Sesi 13 | 10 Menit |
 | Review Sesi 13 (Latihan 2) | Latihan Valid | 5 Menit |
 
-### Selasa (Penyusunan & Review Sesi 12)
+
+---
+
+## Week 5: Compile Sprint Sesi 11 - 15 (Target: 180 Menit/Hari)
+
+### Senin (Penyusunan & Review Sesi 11)
 | task | output | time |
 |---|---|---|
 | Penyusunan Sesi 14 (Modul 1) | Draft Sesi 14 | 15 Menit |
@@ -446,8 +442,7 @@
 | Review Sesi 14 (Latihan 1) | Latihan Valid | 5 Menit |
 | Penyusunan Sesi 14 (Latihan 2) | Draft Sesi 14 | 10 Menit |
 | Review Sesi 14 (Latihan 2) | Latihan Valid | 5 Menit |
-
-### Rabu (Penyusunan & Review Sesi 13)
+### Selasa (Penyusunan & Review Sesi 12)
 | task | output | time |
 |---|---|---|
 | Penyusunan Sesi 15 (Modul 1) | Draft Sesi 15 | 15 Menit |
@@ -475,15 +470,20 @@
 | Penyusunan Sesi 15 (Latihan 2) | Draft Sesi 15 | 10 Menit |
 | Review Sesi 15 (Latihan 2) | Latihan Valid | 5 Menit |
 
-### Kamis (Penyusunan & Review Sesi 14)
+### Rabu (Penyusunan & Review Sesi 13)
 | task | output | time |
 |---|---|---|
 | QC Sesi 1 - 3 | File Bersih & Rapi | 180 Menit |
 
-### Jumat (Penyusunan & Review Sesi 15)
+### Kamis (Penyusunan & Review Sesi 14)
 | task | output | time |
 |---|---|---|
 | QC Sesi 4 - 6 | File Bersih & Rapi | 180 Menit |
+
+### Jumat (Penyusunan & Review Sesi 15)
+| task | output | time |
+|---|---|---|
+| QC Sesi 7 - 9 | File Bersih & Rapi | 180 Menit |
 
 
 ---
@@ -493,39 +493,40 @@
 #### Senin
 | task | output | time |
 |---|---|---|
-| QC Sesi 7 - 9 | File Bersih & Rapi | 180 Menit |
-
-#### Selasa
-| task | output | time |
-|---|---|---|
 | QC Sesi 10 - 12 | File Bersih & Rapi | 180 Menit |
 
-#### Rabu
+#### Selasa
 | task | output | time |
 |---|---|---|
 | QC Sesi 13 - 15 | File Bersih & Rapi | 90 Menit |
 | Finalisasi Master Repository | Course Siap Upload! | 90 Menit |
 
-#### Kamis
+#### Rabu
 | task | output | time |
 |---|---|---|
 |Desain Layout, Copywriting, & Export Thumbnail Sesi 1 - 8 | 8 Gambar (.png/.jpg) | 180 Menit |
 
-#### Jumat
+
+#### Kamis
 | task | output | time |
 |---|---|---|
 | Desain Layout & Export Thumbnail Sesi 9 - 15 + Cover Utama | 8 Gambar (.png/.jpg) | 180 Menit |
+
+#### Jumat
+| task | output | time |
+|---|---|---|
+| Beta Testing (Soft Launch ke beberapa teman/komunitas buat nyoba) | Feedback User | 180 Menit |
 
 ## Week 7: Visual Production, Engine Integration & Alpha Phase
 *Thumbnailing kelar cepat, sisa minggu langsung dipakai buat masukin materi ke sistem dan ngetes internal.*
 
 | day | task | output | time |
 |---|---|---|---|
-| senin | Beta Testing (Soft Launch ke beberapa teman/komunitas buat nyoba) | Feedback User | 180 Menit |
-| selasa | Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate (v1.0) | 180 Menit |
-| rabu | Upload & Integrasi Materi (Teks + Gambar) ke Course Engine | Engine Terisi Penuh | 180 Menit |
-| kamis | Alpha Testing (Internal UAT: Cek navigasi, path gambar, & logic UI) | Bug Log / Issue List | 180 Menit |
-| jumat | Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
+| senin | Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate (v1.0) | 180 Menit |
+| selasa | Upload & Integrasi Materi (Teks + Gambar) ke Course Engine | Engine Terisi Penuh | 180 Menit |
+| rabu | Alpha Testing (Internal UAT: Cek navigasi, path gambar, & logic UI) | Bug Log / Issue List | 180 Menit |
+| kamis |  Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
+| jumat |Pembuatan Flyer Release, Banner Sosmed, & Copywriting | Marketing Assets | 180 Menit |
 
 ---
 
@@ -534,7 +535,6 @@
 
 | day | task | output | time |
 |---|---|---|---|
-| senin| Pembuatan Flyer Release, Banner Sosmed, & Copywriting | Marketing Assets | 180 Menit |
-| selasa | Scheduling Release (Set auto-post sosmed, blast email/grup) | Campaign Scheduled | 180 Menit |
-| rabu | LAUNCHING! | Course | 30 Menit |
+| senin| Scheduling Release (Set auto-post sosmed, blast email/grup) | Campaign Scheduled | 180 Menit |
+| selasa | LAUNCHING! | Course | 30 Menit |
 
