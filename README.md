@@ -19,11 +19,11 @@
 | Review Capaian Pembelajaran Course | Final Draft Silabus | 5 Menit |
 | Penyusunan Metadata Course (Title, Author, Tags, Deskripsi Global) | Draft Meta Course | 25 Menit |
 | Review Metadata Course | Final Meta Course | 5 Menit |
-| Penyusunan Metadata Module (Untuk 5 Modul/Sesi) | Draft Meta Module | 30 Menit |
+| Penyusunan Metadata Module | Draft Meta Module | 30 Menit |
 | Review Metadata Module | Final Meta Module | 10 Menit |
-| Penyusunan Metadata Penugasan (Untuk 5 Tugas/Sesi) | Draft Meta Tugas | 30 Menit |
+| Penyusunan Metadata Penugasan  | Draft Meta Tugas | 30 Menit |
 | Review Metadata Penugasan | Final Meta Tugas | 10 Menit |
-| Penyusunan Metadata Latihan (Untuk 2 Latihan/Sesi) | Draft Meta Latihan | 30 Menit |
+| Penyusunan Metadata Latihan  | Draft Meta Latihan | 30 Menit |
 | Review Metadata Latihan | Final Meta Latihan | 10 Menit |
 
 #### Selasa (Setup Sesi 6 - 12)
