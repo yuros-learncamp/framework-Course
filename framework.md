@@ -93,35 +93,25 @@
 
 ---
 
-### Week 6: Global QC, Finalisasi Repo & Beta Testing
-*(Note: Hari Jumat lu tembus 360 menit gara-gara numpuk Beta Testing & Revisi, moga-moga kuat)*
+### Week 4 
+#### Senin
+|day | task | output | time |
+|---|---|---|---|
+|Senin|Beta Testing (Soft Launch ke teman/komunitas buat nyoba) | Feedback User | 180 Menit |
 
-#### Senin (Global QC Sesi 4 - 6)
-| task | output | time |
-|---|---|---|
-| QC Sesi 4 - 6 | false sesi 4 - 6 | 180 Menit |
+#### Selasa
+|day | task | output | time |
+|Selasa|Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate (v1.0) | 180 Menit |
 
-#### Selasa (Global QC Sesi 7 - 9)
-| task | output | time |
-|---|---|---|
-| QC Sesi 7 - 9 | false sesi 7- 9 | 180 Menit |
+#### Rabu
+|day | task | output | time |
+|Rabu|Alpha Testing (Internal UAT: Cek navigasi, path gambar, & logic UI) | Bug Log / Issue List | 180 Menit |
 
-#### Rabu (Global QC Sesi 10 - 12)
-| task | output | time |
-|---|---|---|
-| QC Sesi 10 - 12 | false 10 - 12 | 180 Menit |
+#### Kamis
+|day | task | output | time |
+| Kamis | Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
 
-#### Kamis (Global QC Sesi 13 - 15 & Finalisasi)
-| task | output | time |
-|---|---|---|
-| QC Sesi 13 - 15 | false 13 - 15 | 90 Menit |
-| Finalisasi Master Repository | Push to main branch | 90 Menit |
 
-#### Jumat (Beta Testing & Revisi Beta)
-| task | output | time |
-|---|---|---|
-| Beta Testing (Soft Launch ke teman/komunitas buat nyoba) | Feedback User | 180 Menit |
-| Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate (v1.0) | 180 Menit |
 
 ---
 
