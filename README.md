@@ -473,17 +473,22 @@
 ### Rabu (Penyusunan & Review Sesi 13)
 | task | output | time |
 |---|---|---|
-| QC Sesi 1 - 3 | File Bersih & Rapi | 180 Menit |
+|Desain Layout, & Export Thumbnail Sesi 1 - 8 | 8 Gambar (.png/.jpg) | 180 Menit |
+
 
 ### Kamis (Penyusunan & Review Sesi 14)
 | task | output | time |
 |---|---|---|
-| QC Sesi 4 - 6 | File Bersih & Rapi | 180 Menit |
+| Desain Layout & Export Thumbnail Sesi 9 - 15 + Cover Utama | 8 Gambar (.png/.jpg) | 180 Menit |
+
+
 
 ### Jumat (Penyusunan & Review Sesi 15)
 | task | output | time |
 |---|---|---|
-| QC Sesi 7 - 9 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 1 - 3 | File Bersih & Rapi | 180 Menit |
+
+
 
 
 ---
@@ -493,29 +498,37 @@
 #### Senin
 | task | output | time |
 |---|---|---|
-| QC Sesi 10 - 12 | File Bersih & Rapi | 180 Menit |
+| QC Sesi 4 - 6 | File Bersih & Rapi | 180 Menit |
+
+
 
 #### Selasa
 | task | output | time |
 |---|---|---|
-| QC Sesi 13 - 15 | File Bersih & Rapi | 90 Menit |
-| Finalisasi Master Repository | Course Siap Upload! | 90 Menit |
+| QC Sesi 7 - 9 | File Bersih & Rapi | 180 Menit |
+
+
 
 #### Rabu
 | task | output | time |
 |---|---|---|
-|Desain Layout, Copywriting, & Export Thumbnail Sesi 1 - 8 | 8 Gambar (.png/.jpg) | 180 Menit |
+| QC Sesi 10 - 12 | File Bersih & Rapi | 180 Menit |
+
+
 
 
 #### Kamis
 | task | output | time |
 |---|---|---|
-| Desain Layout & Export Thumbnail Sesi 9 - 15 + Cover Utama | 8 Gambar (.png/.jpg) | 180 Menit |
+| QC Sesi 13 - 15 | File Bersih & Rapi | 90 Menit |
+| Finalisasi Master Repository | Course Siap Upload! | 90 Menit |
+
 
 #### Jumat
 | task | output | time |
 |---|---|---|
 | Beta Testing (Soft Launch ke beberapa teman/komunitas buat nyoba) | Feedback User | 180 Menit |
+| Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate (v1.0) | 180 Menit |
 
 ## Week 7: Visual Production, Engine Integration & Alpha Phase
 *Thumbnailing kelar cepat, sisa minggu langsung dipakai buat masukin materi ke sistem dan ngetes internal.*
@@ -526,7 +539,7 @@
 | selasa | Upload & Integrasi Materi (Teks + Gambar) ke Course Engine | Engine Terisi Penuh | 180 Menit |
 | rabu | Alpha Testing (Internal UAT: Cek navigasi, path gambar, & logic UI) | Bug Log / Issue List | 180 Menit |
 | kamis |  Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
-| jumat |Pembuatan Flyer Release, Banner Sosmed, & Copywriting | Marketing Assets | 180 Menit |
+| jumat | Pembuatan Flyer Release, Banner Sosmed, & Copywriting | Marketing Assets | 180 Menit |
 
 ---
 
