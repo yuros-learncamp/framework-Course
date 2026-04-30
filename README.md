@@ -526,7 +526,7 @@
 | task | output | time |
 |---|---|---|
 | QC Sesi 13 - 15 | false 13 - 15 | 90 Menit |
-| Finalisasi Master Repository | Course Siap Upload! | 90 Menit |
+| Finalisasi Master Repository | Push to main branch | 90 Menit |
 
 #### Jumat (Beta Testing & Revisi Beta)
 | task | output | time |
