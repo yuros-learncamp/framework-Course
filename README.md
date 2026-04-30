@@ -5,11 +5,11 @@
 ### Week 1: Research & Formatting Foundation
 | day | task | output | time |
 |---|---|---|---|
-| senin | Perencanaan riset & Penentuan Format | Terms of References | 240 Menit |
-| selasa | Penyusunan instrumen & Format Laporan | Panduan & Template | 240 Menit |
-| rabu | Pelaksanaan riset lapangan | Raw Data | 240 Menit |
-| kamis | Pelaksanaan riset lapangan | Raw Data | 240 Menit |
-| jumat | Analisis data & Penyusunan Laporan Riset | Report Riset Final | 240 Menit |
+| senin | Perencanaan riset & Penentuan Format | Terms of References | 180 Menit |
+| selasa | Penyusunan instrumen & Format Laporan | Panduan & Template | 180 Menit |
+| rabu | Pelaksanaan riset lapangan | Raw Data | 180 Menit |
+| kamis | Pelaksanaan riset lapangan | Raw Data | 180 Menit |
+| jumat | Analisis data & Penyusunan Laporan Riset | Report Riset Final | 180 Menit |
 
 ---
 
