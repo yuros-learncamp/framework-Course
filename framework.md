@@ -49,24 +49,24 @@
 #### rabu 
 |day | task | output | time |
 |---|---|---|---|
-|rabu |QC Sesi 1| repo final | 180 Menit |
-|rabu |QC Sesi 2| repo final | 180 Menit |
+|rabu |QC Sesi 1|  final Sesi 1 | 180 Menit |
+|rabu |QC Sesi 2|  final Sesi 2| 180 Menit |
 
 ---
 
 #### kamis 
 |day | task | output | time |
 |---|---|---|---|
-|kamis |QC Sesi 3 | repo final | 180 Menit |
-|kamis |QC Sesi 4 | repo final | 180 Menit |
+|kamis |QC Sesi 3 | final Sesi 3| 180 Menit |
+|kamis |QC Sesi 4 | final Sesi 4| 180 Menit |
 
 ---
 
 #### Jumat 
 |day | task | output | time |
 |---|---|---|---|
-|jumat |QC Sesi 5 | repo final | 180 Menit |
-|jumat |QC Sesi 6 | repo final | 180 Menit |
+|jumat |QC Sesi 5 | final Sesi 5| 180 Menit |
+|jumat |QC Sesi 6 | final Sesi 6| 180 Menit |
 
 ---
 
@@ -75,30 +75,30 @@
 #### Senin QC Sesi 7-8
 |day | task | output | time |
 |---|---|---|---|
-|senin |QC Sesi 7 | repo final | 180 Menit |
-|senin |QC Sesi 8 | repo final | 180 Menit |
+|senin |QC Sesi 7 | final Sesi 7| 180 Menit |
+|senin |QC Sesi 8 | final Sesi 8| 180 Menit |
 
 ---
 
 #### selasa QC Sesi 9-10
 |day | task | output | time |
 |---|---|---|---|
-|selasa |QC Sesi 9 | repo final | 180 Menit |
-|selasa |QC Sesi 10 | repo final | 180 Menit |
+|selasa |QC Sesi 9 | final Sesi 9| 180 Menit |
+|selasa |QC Sesi 10 | final Sesi 10| 180 Menit |
 
 ---
 
 #### rabu QC Sesi 11-12
 |day | task | output | time |
 |---|---|---|---|
-|rabu |QC Sesi 11 | repo final | 180 Menit |
-|rabu |QC Sesi 12 | repo final | 180 Menit |
+|rabu |QC Sesi 11 | final Sesi 11| 180 Menit |
+|rabu |QC Sesi 12 | final Sesi 12| 180 Menit |
 
 #### kamis QC Sesi 13-14
 |day | task | output | time |
 |---|---|---|---|
-|kamis |QC Sesi 13| repo final | 180 Menit |
-|kamis |QC Sesi 14 | repo final | 180 Menit |
+|kamis |QC Sesi 13| final 13| 180 Menit |
+|kamis |QC Sesi 14 | final 14| 180 Menit |
 
 ---
 
@@ -106,7 +106,7 @@
 #### jumat QC Sesi 15
 |day | task | output | time |
 |---|---|---|---|
-|jumt |QC Sesi 15 | repo final | 180 Menit |
+|jumt |QC Sesi 15 | final 15| 180 Menit |
 
 ---
 
