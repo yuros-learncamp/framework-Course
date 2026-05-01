@@ -9,7 +9,7 @@
 | selasa | Penyusunan instrumen | Panduan & Template | 180 Menit |
 | rabu | Pelaksanaan riset lapangan | Raw Data | 180 Menit |
 | kamis | Pelaksanaan riset lapangan | Raw Data | 180 Menit |
-| jumat | Analisis data & Penyusunan Laporan Riset | Report Riset Final | 90 Menit |
+| jumat | Analisis data | Hasil Analisis | 90 Menit |
 | jumat | Penyusunan Laporan Riset | Report Riset Final | 90 Menit |
 
 
@@ -22,6 +22,8 @@
 |---|---|---|---|
 |senin |Pembuatan silabus| Draft Silabus | 150 Menit |
 |senin| Finalisasi draft silabus| Silabus | 30 Menit |
+
+---
 
 #### Selasa 
 |day | task | output | time |
@@ -42,11 +44,15 @@
 |selasa |Penyusunan Sesi 14| draft sesi 14| 12 Menit |
 |selasa |Penyusunan Sesi 15| draft sesi 15| 12 Menit |
 
+---
+
 #### rabu 
 |day | task | output | time |
 |---|---|---|---|
 |rabu |QC Sesi 1| repo final | 180 Menit |
 |rabu |QC Sesi 2| repo final | 180 Menit |
+
+---
 
 #### kamis 
 |day | task | output | time |
@@ -54,11 +60,15 @@
 |kamis |QC Sesi 3 | repo final | 180 Menit |
 |kamis |QC Sesi 4 | repo final | 180 Menit |
 
+---
+
 #### Jumat 
 |day | task | output | time |
 |---|---|---|---|
 |jumat |QC Sesi 5 | repo final | 180 Menit |
 |jumat |QC Sesi 6 | repo final | 180 Menit |
+
+---
 
 
 ### Week 3
@@ -68,11 +78,15 @@
 |senin |QC Sesi 7 | repo final | 180 Menit |
 |senin |QC Sesi 8 | repo final | 180 Menit |
 
+---
+
 #### selasa QC Sesi 9-10
 |day | task | output | time |
 |---|---|---|---|
 |selasa |QC Sesi 9 | repo final | 180 Menit |
 |selasa |QC Sesi 10 | repo final | 180 Menit |
+
+---
 
 #### rabu QC Sesi 11-12
 |day | task | output | time |
@@ -85,6 +99,8 @@
 |---|---|---|---|
 |kamis |QC Sesi 13| repo final | 180 Menit |
 |kamis |QC Sesi 14 | repo final | 180 Menit |
+
+---
 
 #### Jumat
 #### jumat QC Sesi 15
@@ -100,32 +116,35 @@
 |---|---|---|---|
 |Senin|Beta Testing  | Feedback User | 180 Menit |
 
+---
+
 #### Selasa
 |day | task | output | time |
 |---|---|---|---|
 |Selasa|Evaluasi Beta Testing | Laporan Beta Testing | 180 Menit |
 
+---
+
 #### Rabu
 |day | task | output | time |
 |---|---|---|---|
 |Rabu|Revisi Beta  | Release Candidate (v1.0) | 170 Menit |
-| Rabu | Alpha Testing | Bug Log / Issue List | 10 Menit |
+| Rabu | Pendaftaran Alpha Testing| gform alpha testing| 10 Menit |
 
+---
 
 #### Kamis
 |day | task | output | time |
 |---|---|---|---|
-| Kamis | Alpha Testing | Bug Log / Issue List | 180 Menit |
+| Kamis | Alpha Testing | Bug Log / Issue List | 170 Menit |
+| Kamis | Pembuatan Serifikat Audiens Alpha | Draft Sertif Alpha | 10 Menit |
 
+---
 
 #### Jumat
 |day | task | output | time |
 |---|---|---|---|
 | Jumat| Evaluasi Alpha Testing | Laporan Alpha Testing | 180 Menit |
-
-
-
-
 
 ---
 
@@ -147,3 +166,5 @@
 | day | task | output | time |
 |---|---|---|---|
 | Rabu | Scheduling Release | Schedule | 60 Menit |
+| Rabu | Evaluasi Seluruh Kegiatan Course | Laporan Course | 60 Menit |
+
