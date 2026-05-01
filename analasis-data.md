@@ -1,30 +1,36 @@
-# Laporan Analisis Riset: [Nama Course]
+# Laporan Analisis Kuantitatif Riset: [Nama Course]
 
-## 1. Pengelompokan Latar Belakang Responden
-*Bagilah responden ke dalam 3 kelompok besar agar Anda tahu siapa saja yang akan membaca course ini.*
+## 1. Ringkasan Demografi Responden
+*Bagian ini menunjukkan data statistik latar belakang audiens Anda berdasarkan jumlah pilihan terbanyak.*
 
-*   **Kelompok A (Bidang IT/Teknologi):** Orang yang sudah terbiasa dengan komputer tingkat lanjut, istilah teknis, dan kode pemrograman.
-*   **Kelompok B (Bidang Desain/Kreatif):** Orang yang lebih menyukai panduan visual (gambar/video) dan tidak suka membaca teks yang terlalu panjang.
-*   **Kelompok C (Masyarakat Umum/Non-IT):** Orang awam yang sama sekali tidak tahu istilah teknis dan sangat butuh panduan dari titik nol (langkah demi langkah).
+*   **Total Responden:** [Misal: 100 Orang]
+*   **Proporsi Latar Belakang:**
+    *   [Misal: 60%] IT / Sistem Informasi
+    *   [Misal: 25%] Desain / Kreatif
+    *   [Misal: 15%] Umum / Non-IT
+*   **Sistem Operasi Mayoritas:** [Misal: 75% Windows, 15% Linux, 10% macOS]
 
-## 2. Kendala Utama yang Dihadapi Responden
-*Tuliskan kesulitan terbesar dari masing-masing kelompok saat mencoba belajar materi ini.*
+## 2. Peringkat Kendala Utama (Berdasarkan Frekuensi)
+*Bagian ini mengurutkan masalah dari yang paling banyak dipilih hingga yang paling sedikit.*
 
-*   **Keluhan Kelompok A:** Materi dasar terlalu membosankan, mereka butuh materi tingkat lanjut (studi kasus rumit).
-*   **Keluhan Kelompok B:** Penjelasan terlalu banyak teks, membuat pusing karena kurangnya gambar atau ilustrasi pendukung.
-*   **Keluhan Kelompok C:** Bingung dengan kata-kata asing (seperti *server*, *database*, *deploy*) dan takut salah klik saat pertama kali menginstal aplikasi.
+1. **[Misal: 80%]** Kesulitan dalam proses instalasi dan persiapan awal (setup).
+2. **[Misal: 65%]** Sulit memahami istilah teknis atau bahasa pemrograman.
+3. **[Misal: 40%]** Kebingungan mencari solusi saat terjadi *error* (debugging).
 
-## 3. Harapan Responden terhadap Course
-*   **Format Belajar yang Paling Diinginkan:** [Contoh: Modul teks yang dilengkapi banyak gambar layar / *screenshot*]
-*   **Fasilitas yang Paling Dibutuhkan:** [Contoh: Kamus istilah khusus dan *template* file yang siap pakai]
-*   **Harga yang Diharapkan:** [Contoh: Rp 50.000 - Rp 100.000]
+## 3. Hasil Skala Penilaian dan Preferensi
+*Bagian ini mengukur rata-rata jawaban responden terkait preferensi format dan harga.*
 
-## 4. Rencana Penerapan pada Materi Course (Silabus)
-*Bagian ini adalah kesimpulan akhir. Ubah keluhan responden di atas menjadi keputusan nyata untuk penulisan materi.*
+*   **Rata-rata Tingkat Kesulitan Saat Ini:** [Misal: 4.2 dari 5.0 (Kategori: Cukup Sulit)]
+*   **Format Belajar Pilihan Mayoritas:** [Misal: 70% memilih Teks Interaktif + Gambar]
+*   **Fasilitas Paling Banyak Diminta:** [Misal: 85% memilih Template Siap Pakai]
+*   **Rentang Harga Terbanyak Dipilih:** [Misal: 60% memilih Rp 50.000 - Rp 100.000]
 
-| Temuan dari Responden | Solusi untuk Course | Diterapkan pada Bagian |
+## 4. Rencana Tindak Lanjut Silabus (Berdasarkan Mayoritas Data)
+*Ubah data angka tertinggi menjadi keputusan pembuatan materi.*
+
+| Data Kuantitatif Tertinggi | Keputusan untuk Silabus | Sasaran Eksekusi |
 |---|---|---|
-| Banyak audiens Non-IT yang tidak paham istilah asing. | Buat satu modul khusus berisi "Kamus Istilah" dengan perumpamaan sederhana. | Sesi 1 |
-| Responden awam takut salah saat proses instalasi awal. | Sediakan panduan lengkap beserta peringatan pada bagian yang rawan *error*. | Sesi 2 (Modul 1) |
-| Kelompok Desain mudah bosan dengan format bacaan. | Sisipkan gambar pendukung di setiap langkah instruksi yang panjang. | Semua Modul |
-| Kelompok IT butuh tantangan lebih. | Tambahkan bagian "Tugas Tambahan" yang lebih sulit bagi mereka yang ingin mencoba. | Latihan Sesi 5 - 15 |
+| 60% berasal dari IT dan 75% pengguna Windows. | Buat panduan berbasis Windows sebagai standar utama, namun tetap sediakan glosarium untuk peserta non-IT. | Aturan Global Course & Sesi 1 |
+| 80% terkendala pada instalasi awal. | Alokasikan sesi khusus yang sangat detail (langkah demi langkah) murni hanya untuk instalasi. | Sesi 2 (Modul 1 & 2) |
+| Rata-rata tingkat kesulitan materi adalah 4.2/5.0. | Pecah materi yang panjang menjadi sub-modul yang lebih pendek agar peserta tidak kelelahan. | Seluruh Modul |
+| 85% meminta template siap pakai. | Sediakan tautan unduh (download) berkas *template* secara wajib di setiap penugasan. | Bagian Tugas & Latihan |
