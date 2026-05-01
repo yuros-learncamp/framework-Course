@@ -46,67 +46,67 @@
 
 ---
 
-#### Rabu Prove Read Sesi 1-2
+#### Rabu Proofread Sesi 1-2
 |day | task | output | time |
 |---|---|---|---|
-|rabu |Prove Read Sesi 1| final Sesi 1 | 180 Menit |
-|rabu |Prove Read Sesi 2| final Sesi 2| 180 Menit |
+|rabu |Proofread Sesi 1| final Sesi 1 | 180 Menit |
+|rabu |Proofread Sesi 2| final Sesi 2| 180 Menit |
 
 ---
 
-#### Kamis Prove Read Sesi 3-4
+#### Kamis Proofread Sesi 3-4
 |day | task | output | time |
 |---|---|---|---|
-|kamis |Prove Read Sesi 3 | final Sesi 3| 180 Menit |
-|kamis |Prove Read Sesi 4 | final Sesi 4| 180 Menit |
+|kamis |Proofread Sesi 3 | final Sesi 3| 180 Menit |
+|kamis |Proofread Sesi 4 | final Sesi 4| 180 Menit |
 
 ---
 
-#### Jumat Prove Read Sesi 5-6
+#### Jumat Proofread Sesi 5-6
 |day | task | output | time |
 |---|---|---|---|
-|jumat |Prove Read Sesi 5 | final Sesi 5| 180 Menit |
-|jumat |Prove Read Sesi 6 | final Sesi 6| 180 Menit |
+|jumat |Proofread Sesi 5 | final Sesi 5| 180 Menit |
+|jumat |Proofread Sesi 6 | final Sesi 6| 180 Menit |
 
 ---
 
 ### Week 3
-#### Senin Prove Read Sesi 7-8
+#### Senin Proofread Sesi 7-8
 |day | task | output | time |
 |---|---|---|---|
-|senin |Prove Read Sesi 7 | final Sesi 7| 180 Menit |
-|senin |Prove Read Sesi 8 | final Sesi 8| 180 Menit |
+|senin |Proofread Sesi 7 | final Sesi 7| 180 Menit |
+|senin |Proofread Sesi 8 | final Sesi 8| 180 Menit |
 
 ---
 
-#### Selasa Prove Read Sesi 9-10
+#### Selasa Proofread Sesi 9-10
 |day | task | output | time |
 |---|---|---|---|
-|selasa |Prove Read Sesi 9 | final Sesi 9| 180 Menit |
-|selasa |Prove Read Sesi 10 | final Sesi 10| 180 Menit |
+|selasa |Proofread Sesi 9 | final Sesi 9| 180 Menit |
+|selasa |Proofread Sesi 10 | final Sesi 10| 180 Menit |
 
 ---
 
-#### Rabu Prove Read Sesi 11-12
+#### Rabu Proofread Sesi 11-12
 |day | task | output | time |
 |---|---|---|---|
-|rabu |Prove Read Sesi 11 | final Sesi 11| 180 Menit |
-|rabu |Prove Read Sesi 12 | final Sesi 12| 180 Menit |
+|rabu |Proofread Sesi 11 | final Sesi 11| 180 Menit |
+|rabu |Proofread Sesi 12 | final Sesi 12| 180 Menit |
 
 ---
 
-#### Kamis Prove Read Sesi 13-14
+#### Kamis Proofread Sesi 13-14
 |day | task | output | time |
 |---|---|---|---|
-|kamis |Prove Read Sesi 13| final Sesi 13| 180 Menit |
-|kamis |Prove Read Sesi 14 | final Sesi 14| 180 Menit |
+|kamis |Proofread Sesi 13| final Sesi 13| 180 Menit |
+|kamis |Proofread Sesi 14 | final Sesi 14| 180 Menit |
 
 ---
 
-#### Jumat Prove Read Sesi 15
+#### Jumat Proofread Sesi 15
 |day | task | output | time |
 |---|---|---|---|
-|jumat |Prove Read Sesi 15 | final Sesi 15| 180 Menit |
+|jumat |Proofread Sesi 15 | final Sesi 15| 180 Menit |
 
 ---
 
