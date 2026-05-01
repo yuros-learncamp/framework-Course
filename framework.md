@@ -46,67 +46,67 @@
 
 ---
 
-#### rabu 
+#### Rabu Prove Read Sesi 1-2
 |day | task | output | time |
 |---|---|---|---|
-|rabu |QC Sesi 1|  final Sesi 1 | 180 Menit |
-|rabu |QC Sesi 2|  final Sesi 2| 180 Menit |
+|rabu |Prove Read Sesi 1| final Sesi 1 | 180 Menit |
+|rabu |Prove Read Sesi 2| final Sesi 2| 180 Menit |
 
 ---
 
-#### kamis 
+#### Kamis Prove Read Sesi 3-4
 |day | task | output | time |
 |---|---|---|---|
-|kamis |QC Sesi 3 | final Sesi 3| 180 Menit |
-|kamis |QC Sesi 4 | final Sesi 4| 180 Menit |
+|kamis |Prove Read Sesi 3 | final Sesi 3| 180 Menit |
+|kamis |Prove Read Sesi 4 | final Sesi 4| 180 Menit |
 
 ---
 
-#### Jumat 
+#### Jumat Prove Read Sesi 5-6
 |day | task | output | time |
 |---|---|---|---|
-|jumat |QC Sesi 5 | final Sesi 5| 180 Menit |
-|jumat |QC Sesi 6 | final Sesi 6| 180 Menit |
+|jumat |Prove Read Sesi 5 | final Sesi 5| 180 Menit |
+|jumat |Prove Read Sesi 6 | final Sesi 6| 180 Menit |
 
 ---
-
 
 ### Week 3
-#### Senin QC Sesi 7-8
+#### Senin Prove Read Sesi 7-8
 |day | task | output | time |
 |---|---|---|---|
-|senin |QC Sesi 7 | final Sesi 7| 180 Menit |
-|senin |QC Sesi 8 | final Sesi 8| 180 Menit |
+|senin |Prove Read Sesi 7 | final Sesi 7| 180 Menit |
+|senin |Prove Read Sesi 8 | final Sesi 8| 180 Menit |
 
 ---
 
-#### selasa QC Sesi 9-10
+#### Selasa Prove Read Sesi 9-10
 |day | task | output | time |
 |---|---|---|---|
-|selasa |QC Sesi 9 | final Sesi 9| 180 Menit |
-|selasa |QC Sesi 10 | final Sesi 10| 180 Menit |
+|selasa |Prove Read Sesi 9 | final Sesi 9| 180 Menit |
+|selasa |Prove Read Sesi 10 | final Sesi 10| 180 Menit |
 
 ---
 
-#### rabu QC Sesi 11-12
+#### Rabu Prove Read Sesi 11-12
 |day | task | output | time |
 |---|---|---|---|
-|rabu |QC Sesi 11 | final Sesi 11| 180 Menit |
-|rabu |QC Sesi 12 | final Sesi 12| 180 Menit |
-
-#### kamis QC Sesi 13-14
-|day | task | output | time |
-|---|---|---|---|
-|kamis |QC Sesi 13| final Sesi 13| 180 Menit |
-|kamis |QC Sesi 14 | final Sesi 14| 180 Menit |
+|rabu |Prove Read Sesi 11 | final Sesi 11| 180 Menit |
+|rabu |Prove Read Sesi 12 | final Sesi 12| 180 Menit |
 
 ---
 
-#### Jumat
-#### jumat QC Sesi 15
+#### Kamis Prove Read Sesi 13-14
 |day | task | output | time |
 |---|---|---|---|
-|jumt |QC Sesi 15 | final Sesi 15| 180 Menit |
+|kamis |Prove Read Sesi 13| final Sesi 13| 180 Menit |
+|kamis |Prove Read Sesi 14 | final Sesi 14| 180 Menit |
+
+---
+
+#### Jumat Prove Read Sesi 15
+|day | task | output | time |
+|---|---|---|---|
+|jumat |Prove Read Sesi 15 | final Sesi 15| 180 Menit |
 
 ---
 
