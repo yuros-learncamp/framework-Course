@@ -97,19 +97,25 @@
 #### Senin
 |day | task | output | time |
 |---|---|---|---|
-|Senin|Beta Testing (Soft Launch ke teman/komunitas buat nyoba) | Feedback User | 180 Menit |
+|Senin|Beta Testing  | Feedback User | 180 Menit |
 
 #### Selasa
 |day | task | output | time |
-|Selasa|Revisi Beta (Fixing issue dari masukan Beta Tester) | Release Candidate (v1.0) | 180 Menit |
+|Selasa|Revisi Beta  | Release Candidate (v1.0) | 180 Menit |
 
 #### Rabu
 |day | task | output | time |
-|Rabu|Alpha Testing (Internal UAT: Cek navigasi, path gambar, & logic UI) | Bug Log / Issue List | 180 Menit |
+|Rabu|Alpha Testing | Bug Log / Issue List | 180 Menit |
 
 #### Kamis
 |day | task | output | time |
-| Kamis | Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
+| Kamis | Revisi Alpha  | Engine Stabil (v0.9) | 180 Menit |
+
+#### Jumat
+|day | task | output | time |
+| Jumat | Pembuatan Flyer Release | Marketing Assets | 60 Menit |
+| Jumat | Riset Pemasaran | laporan riset | 120 Menit |
+
 
 
 
@@ -120,8 +126,4 @@
 
 | day | task | output | time |
 |---|---|---|---|
-| senin | Alpha Testing (Internal UAT: Cek navigasi, path gambar, & logic UI) | Bug Log / Issue List | 180 Menit |
-| selasa | Revisi Alpha (Patching bug, fixing typo & benerin struktur engine) | Engine Stabil (v0.9) | 180 Menit |
-| rabu | Pembuatan Flyer Release, Banner Sosmed, & Copywriting | Marketing Assets | 180 Menit |
-| kamis | Scheduling Release (Set auto-post sosmed, blast email/grup) | Campaign Scheduled | 180 Menit |
-| jumat | LAUNCHING! | Course Live | 30 Menit |
+| senin | Scheduling Release | Schedule | 60 Menit |
