@@ -102,21 +102,25 @@
 
 #### Selasa
 |day | task | output | time |
+|---|---|---|---|
 |Selasa|Evaluasi Beta Testing | Laporan Beta Testing | 180 Menit |
 
 #### Rabu
 |day | task | output | time |
+|---|---|---|---|
 |Rabu|Revisi Beta  | Release Candidate (v1.0) | 170 Menit |
 | Rabu | Alpha Testing | Bug Log / Issue List | 10 Menit |
 
 
 #### Kamis
 |day | task | output | time |
+|---|---|---|---|
 | Kamis | Alpha Testing | Bug Log / Issue List | 180 Menit |
 
 
 #### Jumat
 |day | task | output | time |
+|---|---|---|---|
 | Jumat| Evaluasi Alpha Testing | Laporan Alpha Testing | 180 Menit |
 
 
