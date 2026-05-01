@@ -106,7 +106,8 @@
 
 #### Rabu
 |day | task | output | time |
-|Rabu|Revisi Beta  | Release Candidate (v1.0) | 180 Menit |
+|Rabu|Revisi Beta  | Release Candidate (v1.0) | 170 Menit |
+| Rabu | Alpha Testing | Bug Log / Issue List | 10 Menit |
 
 
 #### Kamis
@@ -116,7 +117,7 @@
 
 #### Jumat
 |day | task | output | time |
-| Jumat|Evaluasi Alpha Testing | Laporan Alpha Testing | 180 Menit |
+| Jumat| Evaluasi Alpha Testing | Laporan Alpha Testing | 180 Menit |
 
 
 
