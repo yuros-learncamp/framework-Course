@@ -67,7 +67,7 @@
 |---|---|---|---|
 |Senin|Beta Testing  | Feedback User | 180 Menit |
 |Selasa|Evaluasi Beta Testing | Laporan Beta Testing | 180 Menit |
-|Rabu|Revisi Beta  | Release Candidate (v1.0) | 170 Menit |
+|Rabu|Revisi Beta  | bug resolve | 170 Menit |
 | Rabu | Pendaftaran Alpha Testing| gform alpha testing| 10 Menit |
 | Kamis | Alpha Testing | Feedback User | 170 Menit |
 | Kamis | Pembuatan Serifikat Audiens Alpha | Draft Sertif Alpha | 10 Menit |
@@ -79,7 +79,7 @@
 #### Senin
 | day | task | output | time |
 |---|---|---|---|
-| Senin | Revisi Alpha  | Engine Stabil (v0.9) | 180 Menit |
+| Senin | Revisi Alpha  | bug resolve | 180 Menit |
 | Selasa | Pembuatan Flyer Release | Marketing Assets | 60 Menit |
 | Selasa | Riset Pemasaran | laporan riset | 120 Menit |
 | Rabu | Scheduling Release | Schedule | 60 Menit |
