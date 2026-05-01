@@ -3,84 +3,84 @@
 ## A. Halaman Muka (Landing/Header Form)
 **Judul:** Survei Pengembangan Course [Nama Course]
 **Deskripsi:** 
-"Halo! Gue lagi riset buat bikin course tentang [Sebutkan Topik]. Survei ini cuma butuh waktu 3-5 menit kok. Jawaban lu bakal ngebantu banget biar materi yang dibikin nanti beneran *straight to the point* dan sesuai sama kebutuhan lu. Tenang, data lu aman. *Thanks* udah mau bantu!"
+"Halo! Kami sedang melakukan riset untuk mengembangkan course mengenai [Sebutkan Topik]. Survei ini hanya membutuhkan waktu sekitar 3-5 menit. Jawaban Anda akan sangat membantu kami dalam menyusun materi yang efektif, tepat sasaran, dan sesuai dengan kebutuhan Anda. Kerahasiaan data Anda akan kami jaga sepenuhnya. Terima kasih atas partisipasi dan kesediaan Anda."
 
 ---
 
 ## B. Bagian 1: Screening & Profiling (Pilihan Ganda / Dropdown)
-*Tujuan: Filter apakah yang ngisi beneran target market lu atau bukan.*
+*Tujuan: Memastikan responden sesuai dengan target audiens dari program ini.*
 
-**1. Apa kesibukan utama lu sekarang?**
+**1. Apa profesi atau kesibukan utama Anda saat ini?**
 - [ ] Mahasiswa IT / Sistem Informasi
 - [ ] Mahasiswa Non-IT
 - [ ] Junior Developer / UI/UX Designer
 - [ ] Lainnya: ______________
 
-**2. Seberapa sering lu ngerjain project / tugas terkait [Sebutkan Topik Course]?**
-- [ ] Hampir tiap hari
-- [ ] 1-2 kali seminggu
-- [ ] Jarang (cuma kalau ada tugas/kebutuhan mendadak)
-- [ ] Belum pernah sama sekali *(Bisa disetting logic jump ke akhir form kalau target lu bukan pemula)*
+**2. Seberapa sering Anda mengerjakan proyek atau tugas yang berkaitan dengan [Sebutkan Topik Course]?**
+- [ ] Hampir setiap hari
+- [ ] 1-2 kali dalam seminggu
+- [ ] Jarang (hanya saat ada tugas atau kebutuhan mendesak)
+- [ ] Belum pernah sama sekali *(Dapat diatur dengan logic jump ke akhir formulir jika target audiens bukan pemula)*
 
-**3. Biasanya lu pakai OS atau environment apa?** (Bisa pilih > 1)
+**3. Sistem Operasi (OS) atau environment apa yang biasanya Anda gunakan?** (Dapat memilih lebih dari satu)
 - [ ] Windows
 - [ ] macOS
-- [ ] Linux (Ubuntu/Mint dkk)
-- [ ] Linux (Arch/Manjaro dkk)
+- [ ] Linux (Ubuntu, Mint, dsb.)
+- [ ] Linux (Arch, Manjaro, dsb.)
 
 ---
 
 ## C. Bagian 2: Behaviour & Pain Points (Checkboxes / Skala)
-*Tujuan: Cari tahu apa yang bikin mereka pusing.*
+*Tujuan: Mengidentifikasi kendala atau hambatan utama yang dialami responden.*
 
-**4. Pas lagi ngerjain [Sebutkan Topik], bagian mana yang paling bikin lu *stuck* atau ngabisin waktu?** (Pilih maksimal 3)
-- [ ] Setup awal / Instalasi tools
-- [ ] Mahamin logika atau konsep dasarnya
-- [ ] Nyari referensi desain / dokumentasi
-- [ ] Debugging / Benerin error
+**4. Saat mengerjakan hal terkait [Sebutkan Topik], bagian mana yang paling sering menjadi hambatan atau paling banyak menyita waktu Anda?** (Pilih maksimal 3)
+- [ ] Persiapan awal (Setup) / Instalasi perangkat lunak (tools)
+- [ ] Memahami logika atau konsep dasar
+- [ ] Mencari referensi desain / membaca dokumentasi
+- [ ] Debugging / Memperbaiki error
 - [ ] Lainnya: ______________
 
-**5. Kalau lagi *stuck*, lu biasanya lari ke mana?** (Bisa pilih > 1)
+**5. Jika menghadapi kendala (stuck), ke mana Anda biasanya mencari solusi?** (Dapat memilih lebih dari satu)
 - [ ] Google / StackOverflow
-- [ ] Nonton tutorial YouTube
-- [ ] Tanya AI (ChatGPT / Gemini / Claude)
-- [ ] Tanya temen / komunitas
-- [ ] Baca dokumentasi resmi (RTFM)
+- [ ] Menonton tutorial di YouTube
+- [ ] Bertanya kepada AI (ChatGPT / Gemini / Claude)
+- [ ] Bertanya kepada rekan / komunitas
+- [ ] Membaca dokumentasi resmi
 
-**6. Dari skala 1-5, seberapa susah menurut lu belajar [Topik Course] pakai sumber yang ada sekarang?**
-- (1) Gampang banget ----- (5) Susah / Bikin frustrasi
+**6. Pada skala 1-5, seberapa sulit menurut Anda mempelajari [Topik Course] menggunakan sumber pembelajaran yang tersedia saat ini?**
+- (1) Sangat mudah ----- (5) Sangat sulit / Membingungkan
 
 ---
 
 ## D. Bagian 3: Expectations & Validation (Pilihan Ganda)
-*Tujuan: Validasi format course dan *pricing* lu.*
+*Tujuan: Memvalidasi preferensi format pembelajaran dan ekspektasi harga.*
 
-**7. Kalau ada course yang ngebahas [Sebutkan Solusi Lu], lu lebih suka format belajarnya kayak gimana?**
-- [ ] Full Video Tutorial (durasi per video pendek-pendek)
-- [ ] Teks interaktif + Gambar/GIF (Kayak dokumentasi/artikel)
-- [ ] Project-based (Langsung praktek bikin 1 kasus nyata)
-- [ ] Campuran (Video + Teks)
+**7. Jika terdapat course yang membahas [Sebutkan Solusi/Topik], format pembelajaran seperti apa yang paling Anda sukai?**
+- [ ] Video Tutorial Penuh (dengan durasi per video yang singkat)
+- [ ] Teks interaktif + Gambar/GIF (Menyerupai dokumentasi/artikel)
+- [ ] Berbasis Proyek (Praktik langsung menyelesaikan 1 studi kasus nyata)
+- [ ] Campuran (Video dan Teks)
 
-**8. Fasilitas apa yang PALING lu arepin ada di course kayak gitu?** (Pilih maksimal 2)
+**8. Fasilitas apa yang PALING Anda harapkan tersedia dalam course tersebut?** (Pilih maksimal 2)
 - [ ] Template / Boilerplate siap pakai
-- [ ] Grup diskusi / Komunitas
-- [ ] Review tugas langsung dari mentor
+- [ ] Grup diskusi atau Komunitas
+- [ ] Umpan balik (review) tugas secara langsung dari mentor
 - [ ] Sertifikat
 
-**9. (Opsional kalau course berbayar) Berapa range harga yang masuk akal buat lu untuk materi kayak gitu?**
+**9. (Opsional) Berapa rentang harga yang menurut Anda masuk akal untuk materi course tersebut?**
 - [ ] Di bawah Rp 50.000
 - [ ] Rp 50.000 - Rp 100.000
 - [ ] Rp 100.000 - Rp 250.000
-- [ ] Gratis aja lah Bang.
+- [ ] Tersedia secara gratis
 
 ---
 
-## E. Bagian 4: Outro (Isian Teks Pendek/Panjang)
-**10. Ada uneg-uneg atau harapan spesifik nggak soal [Topik Course] ini? Tulis bebas aja di sini!**
+## E. Bagian 4: Penutup / Outro (Isian Teks Pendek/Panjang)
+**10. Apakah Anda memiliki harapan spesifik atau masukan tambahan terkait [Topik Course] ini? Silakan tuliskan di bawah ini.**
 *(Kolom Teks)*
 
-**11. Boleh minta email atau username Telegram/Discord lu? (Opsional, barangkali nanti gue butuh ngobrol lebih lanjut atau ngasih diskon pas coursenya rilis)**
+**11. Mohon kesediaannya untuk menuliskan alamat email atau username Telegram/Discord Anda (Opsional, berguna jika kami perlu menghubungi Anda untuk informasi lebih lanjut atau memberikan diskon khusus saat course dirilis).**
 *(Kolom Teks Pendek)*
 
-**Pesan Penutup Form:**
-"Mantap! Makasih banyak buat *insight*-nya. Ditunggu rilis coursenya ya!"
+**Pesan Penutup Formulir:**
+"Terima kasih banyak atas waktu dan wawasan berharga yang Anda berikan. Masukan Anda sangat berarti bagi kami. Nantikan peluncuran course kami!"
