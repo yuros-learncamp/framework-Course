@@ -97,8 +97,8 @@
 #### kamis QC Sesi 13-14
 |day | task | output | time |
 |---|---|---|---|
-|kamis |QC Sesi 13| final 13| 180 Menit |
-|kamis |QC Sesi 14 | final 14| 180 Menit |
+|kamis |QC Sesi 13| final Sesi 13| 180 Menit |
+|kamis |QC Sesi 14 | final Sesi 14| 180 Menit |
 
 ---
 
@@ -106,7 +106,7 @@
 #### jumat QC Sesi 15
 |day | task | output | time |
 |---|---|---|---|
-|jumt |QC Sesi 15 | final 15| 180 Menit |
+|jumt |QC Sesi 15 | final Sesi 15| 180 Menit |
 
 ---
 
