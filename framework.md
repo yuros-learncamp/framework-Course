@@ -60,6 +60,7 @@
 |jumat |QC Sesi 5 | repo final | 180 Menit |
 |jumat |QC Sesi 6 | repo final | 180 Menit |
 
+
 ### Week 3
 #### Senin QC Sesi 7-8
 |day | task | output | time |
@@ -123,7 +124,7 @@
 
 ---
 
-### Week 7: Alpha Phase, Marketing & Launch
+### Week 5 
 #### Senin
 *Tolong diingat, secara logic SDLC Alpha itu jalan sebelum Beta. Tapi karena lu mintanya begini, gue tempel sesuai instruksi lu.*
 
