@@ -85,7 +85,3 @@
 | Rabu | Scheduling Release | Schedule | 60 Menit |
 | Rabu | Evaluasi Seluruh Kegiatan Course | Laporan Course | 60 Menit |
 
-### Evaluasi Setelah Course Release
-| Minggu | Task | Output | Time |
-|---|---|---|---|
-| 4 | Monitoring & Evaluasi Course | Laporan Evaluasi | 180 Menit | 
