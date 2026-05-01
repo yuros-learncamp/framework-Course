@@ -1,23 +1,23 @@
 # Instrumen Riset: [Nama Course]
 
-## A. Opening & Consent (Untuk Interview)
-"Halo [Nama], gue [Nama Lu]. Makasih udah luangin waktu. Riset ini tujuannya buat ngembangin course [Nama Course]. Semua jawaban lu bakal dijaga kerahasiaannya. Boleh gue rekam sesi ini buat dokumentasi?"
+## A. Pembukaan & Persetujuan (Opening & Consent)
+"Halo [Nama Responden], perkenalkan saya [Nama Anda]. Terima kasih atas waktu yang telah diluangkan pada hari ini. Riset ini bertujuan untuk mengumpulkan data guna pengembangan course mengenai [Nama Course]. Kami menjamin bahwa semua jawaban dan informasi yang Anda berikan akan dijaga kerahasiaannya. Sebelum kita mulai, apakah saya diizinkan untuk merekam sesi ini untuk keperluan dokumentasi dan analisis internal?"
 
-## B. Screening & Profiling (Pemanasan)
-1. Boleh ceritain background kesibukan lu sekarang? (Kuliah/Kerja di mana?)
-2. Seberapa sering lu ngerjain project [Sebutkan topik course]? 
-3. Biasanya pakai OS atau tools apa aja buat ngerjain itu?
+## B. Screening & Profiling (Pengenalan Profil)
+1. Bisakah Anda menceritakan latar belakang kesibukan Anda saat ini? (Misalnya: studi, profesi, atau instansi tempat bekerja)
+2. Seberapa sering Anda mengerjakan proyek atau tugas yang berkaitan dengan [Sebutkan topik course]? 
+3. Sistem Operasi (OS) atau perangkat lunak (tools) apa yang biasanya Anda gunakan untuk mengerjakan tugas tersebut?
 
-## C. Core Questions: Behaviour & Pain Points
-1. Gimana proses lu biasanya pas ngerjain [topik terkait]? Bisa ceritain step-by-step dari awal?
-2. Di bagian mana lu ngerasa paling stuck, bingung, atau makan waktu paling lama?
-3. Biasanya lu nyari solusi ke mana kalau lagi stuck begitu? (Google, YouTube, tanya temen?)
-4. [Tanyakan hal spesifik sesuai tujuan course lu]
+## C. Pertanyaan Inti: Perilaku & Kendala (Behaviour & Pain Points)
+1. Bagaimana proses yang biasanya Anda lakukan saat mengerjakan [Sebutkan topik terkait]? Bisakah Anda menceritakan langkah-langkahnya (step-by-step) dari awal hingga selesai?
+2. Pada tahapan mana Anda biasanya merasa paling kesulitan, kebingungan, atau menghabiskan waktu yang paling lama?
+3. Saat menghadapi kendala tersebut, ke mana biasanya Anda mencari solusi? (Misalnya: mesin pencari, forum, video tutorial, atau rekan kerja)
+4. [Tanyakan pertanyaan spesifik lainnya yang relevan dengan tujuan course Anda]
 
-## D. Core Questions: Expectations & Validation
-1. Kalau ada course yang ngajarin [Sebutkan solusi dari lu], hal paling penting apa yang wajib ada di course itu biar lu ngerasa terbantu?
-2. Format belajar kayak apa yang paling lu suka? (Video panjang, teks bacaan, atau project-based?)
-3. Kalau lu disuruh bayar buat materi kayak gitu, ekspektasi lu bakal dapet fasilitas apa aja?
+## D. Pertanyaan Inti: Ekspektasi & Validasi (Expectations & Validation)
+1. Jika terdapat course yang mengajarkan [Sebutkan solusi yang Anda tawarkan], hal krusial apa yang wajib ada di dalam course tersebut agar Anda merasa benar-benar terbantu?
+2. Format pembelajaran seperti apa yang paling efektif dan Anda sukai? (Misalnya: video durasi panjang/pendek, dokumentasi teks, atau pembelajaran berbasis proyek nyata)
+3. Jika Anda harus membayar untuk mengikuti course tersebut, fasilitas dan keuntungan (benefit) apa saja yang menjadi ekspektasi utama Anda?
 
-## E. Outro
-"Sip, jawabannya ngebantu banget. Ada tambahan atau uneg-uneg lain soal topik ini yang belum gue tanyain? Thank you atas waktunya!"
+## E. Penutup (Outro)
+"Baik, seluruh jawaban Anda sangat bermanfaat dan akan sangat membantu dalam pengembangan program ini. Sebelum kita akhiri, apakah ada tambahan, saran, atau hal lain terkait topik ini yang belum sempat kita bahas? Terima kasih banyak atas waktu dan partisipasi Anda."
