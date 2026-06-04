@@ -96,3 +96,8 @@ Penciptaan profil fungsional mandiri ini mencerminkan kaidah pembatasan kontrol 
 
 Fase pendelegasian mandat mutlak kepada entitas aktor operasional pustakawan merupakan tahapan operasional logis final yang harus dituntaskan agar pengguna buatan dapat segera mengendalikan pangkalan data. Sekarang jalankan instruksi hierarkis otorisasi otoritatif di bawah ini untuk mentransfer hak kepemilikan struktur dasar perpustakaan lokal dari superuser awal ke identitas aktor yang barusan terbentuk.
 
+```sql
+GRANT ALL PRIVILEGES ON DATABASE perpustakaan TO staf_perpus;
+```
+
+Eksekusi pengalihan kendali mutlak ini menjamin program lapisan logika sirkulasi pustakawan memiliki kapabilitas absolut untuk menginisiasi skema relasional tabel dan membaca metadata relasional secara leluasa. Pendekatan arsitektural spesifikasi izin mutlak ini menjadi gerbang persiapan menuju fase rekayasa logika arsitektur relasional pada skenario studi kasus tingkat lanjut di modul struktural berikutnya. Kerja bagus! dalam membangun lapisan keamanan pangkalan yang merupakan standar kerja industri.
