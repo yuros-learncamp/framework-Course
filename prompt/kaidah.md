@@ -1,5 +1,3 @@
-Oke, saya tambahkan **Kaidah Output** ke dalam dokumen outline supaya utuh. Berikut hasil revisinya:
-
 ---
 
 # Kaidah Penyusunan Modul
@@ -45,7 +43,7 @@ Oke, saya tambahkan **Kaidah Output** ke dalam dokumen outline supaya utuh. Beri
 
 ---
 
-# 📘 Outline Course MariaDB (Pertemuan 7 – 15)
+# 📘 Outline Course PostgreSQL (Pertemuan 7 – 15)
 
 ## Pertemuan 7 – Ringkasan Data (Praktikal)
 
@@ -65,9 +63,9 @@ Oke, saya tambahkan **Kaidah Output** ke dalam dokumen outline supaya utuh. Beri
 
 ## Pertemuan 9 – Fitur Tambahan SQL (Praktikal)
 
-1. Fungsi string (UPPER, LOWER, CONCAT)
-2. Fungsi tanggal (NOW, YEAR, MONTH)
-3. Fungsi kondisi (IF, CASE)
+1. Fungsi string (UPPER, LOWER, CONCAT atau operator ||)
+2. Fungsi tanggal (NOW, EXTRACT, TO_CHAR)
+3. Fungsi kondisi (CASE, COALESCE)
 4. Praktik: laporan pinjaman bulan tertentu
 5. Latihan mandiri: laporan keterlambatan
 
@@ -81,17 +79,17 @@ Oke, saya tambahkan **Kaidah Output** ke dalam dokumen outline supaya utuh. Beri
 
 ## Pertemuan 11 – Keamanan Sederhana (Praktikal)
 
-1. Membuat user baru
-2. Memberi izin SELECT ke user tertentu
-3. Memberi izin penuh ke admin
-4. Simulasi login dengan user berbeda
+1. Membuat role/user baru
+2. Memberi izin SELECT (GRANT) ke role tertentu
+3. Memberi izin penuh ke superuser/admin
+4. Simulasi login dengan role berbeda
 5. Praktik: role `admin` dan `anggota`
 
 ## Pertemuan 12 – Backup & Restore (Praktikal)
 
 1. Mengapa backup penting
-2. Backup dengan `mysqldump`
-3. Restore database dari file
+2. Backup dengan `pg_dump`
+3. Restore database menggunakan `psql` atau `pg_restore`
 4. Praktik: backup database perpustakaan
 5. Latihan: simulasikan kehilangan data lalu restore
 
@@ -99,26 +97,21 @@ Oke, saya tambahkan **Kaidah Output** ke dalam dokumen outline supaya utuh. Beri
 
 1. Apa itu index (analogi daftar isi buku)
 2. Membuat index sederhana
-3. Melihat pengaruh index pada pencarian
+3. Melihat rencana query dan pengaruh index dengan `EXPLAIN`
 4. Praktik: query dengan dan tanpa index
 5. Latihan: tambahkan index ke kolom judul
 
 ## Pertemuan 14 – Otomatisasi Sederhana (Praktikal)
 
-1. Apa itu prosedur (Stored Procedure)
-2. Membuat prosedur sederhana
-3. Apa itu trigger
-4. Praktik: trigger update stok buku otomatis
-5. Latihan: prosedur laporan harian
+1. Apa itu Fungsi & Prosedur di Postgres (PL/pgSQL)
+2. Membuat fungsi/prosedur sederhana
+3. Konsep Trigger dan Trigger Function di PostgreSQL
+4. Praktik: trigger untuk update stok buku otomatis
+5. Latihan: fungsi laporan harian
 
 ## Pertemuan 15 – Proyek Mini
 
 1. Merancang database perpustakaan mini (final)
 2. Mengisi data minimal 50 baris
 3. Membuat laporan pinjaman bulanan
-4. Membuat user admin & anggota dengan izin berbeda
-
-
----
-
-Apakah kamu mau saya langsung mulai menulis **isi lengkap modul pertemuan 7** sesuai format markdown ini?
+4. Membuat role admin & anggota dengan izin berbeda
