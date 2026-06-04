@@ -1,7 +1,11 @@
 # Instrumen Riset: [Nama Course]
 
 ## A. Pembukaan & Persetujuan (Opening & Consent)
-"Halo [Nama Responden], perkenalkan saya [Nama Anda]. Terima kasih atas waktu yang telah diluangkan pada hari ini. Riset ini bertujuan untuk mengumpulkan data guna pengembangan course mengenai [Nama Course]. Kami menjamin bahwa semua jawaban dan informasi yang Anda berikan akan dijaga kerahasiaannya. Sebelum kita mulai, apakah saya diizinkan untuk merekam sesi ini untuk keperluan dokumentasi dan analisis internal?"
+"Halo [Bapak/Ibu/Mas/Mbak] [Nama Responden], selamat [pagi/siang/sore]. Perkenalkan, saya [Nama Anda]. Sebelumnya, terima kasih banyak sudah meluangkan waktunya untuk hadir hari ini.
+
+Sesi kita hari ini sebenarnya lebih ke diskusi santai saja. Tujuannya untuk mengumpulkan insight langsung dari [Bapak/Ibu/Mas/Mbak] buat bantu kami mengembangkan course [Nama Course]. Nggak usah khawatir, semua informasi dan opini yang dibagikan di sini sifatnya rahasia dan murni cuma dipakai untuk riset internal kami.
+
+Oh ya, supaya diskusinya lebih enak dan saya bisa fokus dengerin tanpa harus sibuk nyatet, apakah berkenan kalau sesi ini saya rekam? Rekamannya aman kok, spesifik untuk kebutuhan dokumentasi dan analisis tim saja."
 
 ## B. Screening & Profiling (Pengenalan Profil)
 1. Bisakah Anda menceritakan latar belakang kesibukan Anda saat ini? (Misalnya: studi, profesi, atau instansi tempat bekerja)
