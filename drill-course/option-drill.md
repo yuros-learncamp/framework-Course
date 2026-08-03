@@ -1,3 +1,7 @@
+file ini akan digunakan untuk drafting beberapa opsi pelatihan kedepannya, jika memang relevan akan dikeluarkan dari list drafting.
+# fundamental
+
+# proofread
 ## Drill 2: Latihan "Pass 2"  (Melatih Ketelitian Mata & Resolusi Konflik Teks)
 Ini fase paling berat (90 menit dalam eksekusi nyata). Staff harus jadi mesin pencari bug teks.
 
