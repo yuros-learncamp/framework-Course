@@ -3,6 +3,8 @@ file ini akan digunakan untuk drafting beberapa opsi pelatihan kedepannya, jika 
 - pemantapan github
 - penulisan markdown
 - pelatihan ketik 10 jari
+- command linux
+- fokus membaca
 
 
 # proofread
